@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Application Virtualization 4.5
+  description: Microsoft Application Virtualization 4.5 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826064"
+name: Microsoft Application Virtualization 4.5
+summary: >
+  Microsoft Application Virtualization 4.5 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます。 Windows デスクトップの場合は、ターミナルサービス用
+
+
+  > [!IMPORTANT]
+
+  > この製品のサポートは終了しました。 下記の「移行ガイダンス」を参照してください。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-v 4.6 クライアントは app-v 4.5 サーバーを利用しているため、app-v 4.5 サーバーは、サポートされている App-v の4.6 クライアントで使用している場合に、4.6 App-v のライフサイクルの日付に従って引き続きサポートされます。\n\n## <a name=\"editions\"></a>バージョン \n* ターミナルサービスの場合\n* Windows デスクトップの場合"

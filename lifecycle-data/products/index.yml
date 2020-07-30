@@ -1,0 +1,11 @@
+### YamlMime:ContentBrowser
+title: 製品およびサービスのライフサイクル情報を検索する (プレビュー)
+browseType: lifecycle
+summary: "\n\n> [!IMPORTANT]\n> このページは開発中です。 Microsoft 製品の完全なリストと、そのサポートタイムラインおよび詳細については、 [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)を参照してください。\n\n\nMicrosoft のライフサイクルでは、製品のライフサイクルを通じて、一貫性のある予測可能なガイドラインが提供され、お客様は将来に向けて戦略的な計画を立てる一方で、IT 投資と環境を管理することができます。\n\n\nMicrosoft 市販の製品とサービスの一覧については以下の情報を参照し、その結果を選択してサポートとサービスのタイムライン、必要な更新プログラム、移行情報、およびシステム要件を検索します。"
+metadata:
+  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826085"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 (インターネットサイト用、内部アプリケーション用)
+  description: FAST Search Server 2010 (インターネットサイト、内部アプリケーションの場合) は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826102"
+name: FAST Search Server 2010 (インターネットサイト用、内部アプリケーション用)
+summary: >+
+  FAST Search Server 2010 (インターネットサイト、内部アプリケーションの場合) は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます。内部アプリケーション、インターネットサイト
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [ライフサイクルの FAQ-全般](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 以前にサポートされていないバージョンを除外します。 この製品のサポートには、購入の条項が適用されます。\n\n## <a name=\"editions\"></a>バージョン \n* 内部アプリケーション\n* インターネットサイト"

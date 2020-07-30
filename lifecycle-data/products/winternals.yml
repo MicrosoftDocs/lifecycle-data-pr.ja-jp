@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Winternals
+  description: Winternals は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825487"
+name: Winternals
+summary: >+
+  Winternals は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます。管理者のパック5.0、Defrag Manager 3.0、Protection Manager 2.0、回復マネージャー3.0
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+  extendedEnd: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>リンク \n* [Microsoft 買収のライフサイクルポリシー](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> 以前にサポートされていないバージョンを除外します。 この製品のサポートには、購入の条項が適用されます。\n\n## <a name=\"editions\"></a>バージョン \n* 管理者のパック5.0\n* デフラグマネージャー3.0\n* 保護マネージャー2.0\n* 回復マネージャー3.0"

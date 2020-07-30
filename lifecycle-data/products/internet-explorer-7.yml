@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 7
+  description: Internet Explorer 7 は、コンポーネントライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826078"
+name: Internet Explorer 7
+summary: >+
+  Internet Explorer 7 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)ライフサイクルポリシーに従います。
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 10/18/2006
+releases:
+- version: Original Release
+  startDate: 10/18/2006
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer のライフサイクルポリシーに関する FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016年1月12日から、サポートされているオペレーティングシステムで利用できる最新バージョンの Internet Explorer のみがテクニカルサポートおよびセキュリティ更新プログラムを受け取ります。"
