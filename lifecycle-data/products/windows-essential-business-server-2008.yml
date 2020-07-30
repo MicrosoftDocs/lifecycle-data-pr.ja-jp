@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 重要な Business Server 2008
+  description: Windows 重要な Business Server 2008 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ec7238cb3b1948788e38b0cbc3a9a38217554d5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825857"
+name: Windows 重要な Business Server 2008
+summary: >
+  Windows 重要な Business Server 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます。標準
+
+
+  > [!IMPORTANT]
+
+  > この製品パッケージのサポート日付は、個々のコンポーネント製品のライフサイクルによって決まります。 各コンポーネント製品のライフサイクルを確認して、サポート期間を確認してください。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/12/2008
+releases:
+- version: Original Release
+  startDate: 12/12/2008
+  endDate: 02/13/2020
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://aka.ms/AA1ovn4)\n* [製品情報](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)\n\n\n## <a name=\"editions\"></a>バージョン \n* Standard"

@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 2003
+  description: Windows Mobile 2003 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825847"
+name: Windows Mobile 2003
+summary: >
+  Windows Mobile 2003 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます。 Pocket PC の場合は、pocket pc の場合は2番目のエディションのソフトウェア、スマートフォン用の2番目のエディションのソフトウェア
+
+
+  > [!IMPORTANT]
+
+  > この製品のサポートは終了しました。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/31/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>バージョン \n* Pocket PC の場合\n* スマートフォンの場合\n* Pocket PC Phone 用の2番目のエディションソフトウェア\n* スマートフォン用の2番目のエディションソフトウェア"
