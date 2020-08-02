@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2008
+  description: Windows Storage Server 2008 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825325"
+name: Windows Storage Server 2008
+summary: >
+  Windows Storage Server 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます: Basic、Basic 32-ビット、基本 64-ビット、基本的な埋め込み、基本的な埋め込み32ビット、エンタープライズ、エンタープライズ埋め込み、標準、標準埋め込み、ワークグループ
+
+
+  > [!IMPORTANT]
+
+  > この製品は、サポート終了に到達しました。 移行のガイダンスについては、以下を参照してください。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [サーバーのアップグレード情報](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>バージョン \n* 基本\n* 基本的な32ビット\n* 基本的な64ビット\n* 基本的な埋め込み\n* 基本的な埋め込み32ビット\n* 大規模企業\n* エンタープライズ埋め込み\n* Standard\n* 標準の埋め込み\n* グループ"

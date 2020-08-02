@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SoftGrid アプリケーションの仮想化
+  description: SoftGrid Application Virtualization は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825358"
+name: SoftGrid アプリケーションの仮想化
+summary: >
+  SoftGrid Application Virtualization は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます: 4.1 (デスクトップ、デスクトップ、4.2、ターミナルサービス 4.1)
+
+
+  > [!IMPORTANT]
+
+  > サポートが終了しました。 下記の「移行ガイダンス」を参照してください。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>バージョン \n* デスクトップの場合は4.1\n* デスクトップの場合は4.2\n* ターミナルサービス4.1 の場合"
