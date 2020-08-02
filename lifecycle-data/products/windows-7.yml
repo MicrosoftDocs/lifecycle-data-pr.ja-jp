@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825347"
+name: Windows 7
+summary: "Windows 7 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。\n\nこれは、次のエディションに適用されます: Enterprise、Enterprise N、Home Basic、ホーム Premium、ホーム Premium N、Professional、Professional for Embedded Systems、Professional N、Starter、Starter N、Ultimate、エンベデッドシステム、究極 N\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 下記の「移行ガイダンス」を参照してください。 \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> ' * 拡張されたセキュリティ更新プログラム (ESU) は、Windows 7 Professional、Enterprise、および Professional for the この製品の組み込みシステムエディション用の特定のボリュームライセンスプログラムで利用できます。これは、サポート終了後3年間を超えています。 詳細については、Microsoft パートナーまたはアカウントチームにお問い合わせください。 \n\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://support.microsoft.com/help/4057281)\n* [Windows 7 から Windows 10 にアップグレードする](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [拡張セキュリティ更新プログラム (ESU)](/lifecycle/faq/extended-security-updates)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* 大規模企業\n* エンタープライズ N\n* ホームの基本\n* ホームプレミアム\n* ホームプレミアム N\n* プロフェッショナル\n* 組み込みシステム向けのプロフェッショナル\n* プロフェッショナル N\n* スタート\n* Starter N\n* 究極的\n* 埋め込みシステムの究極\n* 究極の N"
