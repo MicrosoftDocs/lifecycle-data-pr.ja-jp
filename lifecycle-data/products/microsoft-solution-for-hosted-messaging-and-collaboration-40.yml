@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ホストメッセージングおよびコラボレーションのための Microsoft ソリューション4.0
+  description: ホストメッセージングおよびコラボレーション4.0 用の Microsoft ソリューションは、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825531"
+name: ホストメッセージングおよびコラボレーションのための Microsoft ソリューション4.0
+summary: >+
+  ホストメッセージングおよびコラボレーション4.0 用の Microsoft ソリューションは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/15/2007
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 07/15/2007
+  endDate: 12/12/2011
+content: ''
