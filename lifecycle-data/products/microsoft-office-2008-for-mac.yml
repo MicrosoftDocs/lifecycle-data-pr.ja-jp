@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2008 for Mac
+  description: Microsoft Office 2008 for Mac は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825646"
+name: Microsoft Office 2008 for Mac
+summary: "Microsoft Office 2008 for Mac は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。\n\nこれは、次のエディションに適用されます: Business、Home、Student、Special Media Editon\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/15/2008
+  end: 04/09/2013
+releases:
+- version: Service Pack 2
+  startDate: 07/20/2009
+  endDate: 04/09/2013
+- version: Service Pack 1
+  startDate: 05/13/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 01/15/2008
+  endDate: 10/19/2009
+content: "\n## <a name=\"links\"></a>リンク \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 for Mac の特別なメディアエディションの開始日は、2008年3月12日です。\n\n## <a name=\"editions\"></a>バージョン \n* Business\n* 自宅および学生\n* 特別メディア編集トン"
