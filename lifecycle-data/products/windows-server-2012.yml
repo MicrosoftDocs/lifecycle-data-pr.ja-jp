@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2012
+  description: Windows Server 2012 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857698"
+name: Windows Server 2012
+summary: >+
+  Windows Server 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます: データセンター、Essentials、埋め込みシステム、基盤、標準
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/windows-server/upgrade/upgrade-overview)\n* [製品情報](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> この製品の主流および拡張のサポートは、お客様に標準的なライフサイクル移行のタイムラインを提供するように拡張されました。 Windows Server Essentials は2013年1月2日にリリースされました。\n\n## <a name=\"editions\"></a>バージョン \n* データセンター\n* Essentials\n* 埋め込みシステムの場合\n* 基\n* Standard"

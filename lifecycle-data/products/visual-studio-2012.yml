@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2012
+  description: Visual Studio 2012 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857441"
+name: Visual Studio 2012
+summary: >+
+  Visual Studio 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます: エージェント、コミュニティ2013、Web for Web、express for Windows 8、Express for Windows 8、Express for Windows デスクトップ、[高速]、[Microsoft Azure Tools]、[Premium]、[SQL Server Data Tools]、[Team Explorer]、[テストプロフェッショナル2013、究極、Visual C++ 再頒布可能、Web ツール拡張
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/31/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>リンク \n* [Visual Studio 製品のライフサイクルとサービス](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>バージョン \n* エージェント\n* コミュニティ2013\n* Web 用の Express\n* Windows 8 用の Express\n* Windows デスクトップ用の Express\n* IntelliTrace コレクター\n* Microsoft Azure ツール\n* Premium\n* プロフェッショナル\n* リモートツール\n* シェル (統合)\n* シェル (分離)\n* SQL Server Data Tools\n* チームエクスプローラー\n* テストプロフェッショナル2013\n* 究極的\n* Visual C++ 再頒布可能パッケージ\n* Web ツール拡張機能"

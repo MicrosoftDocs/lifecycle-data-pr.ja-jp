@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft インターネットインフォメーションサービス10.0
+  description: Microsoft インターネットインフォメーションサービス10.0 は、コンポーネントライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857366"
+name: Microsoft インターネットインフォメーションサービス10.0
+summary: >+
+  Microsoft インターネットインフォメーションサービス10.0 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)ライフサイクルポリシーに従います。
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/12/2016
+  end: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 10/12/2016
+  endDate: 01/11/2027
+content: "\n\n> [!NOTE]\n> このリリースは、親の主要製品である Windows Server 2016 のサポートライフサイクルに従うコンポーネントと呼ばれています。"
