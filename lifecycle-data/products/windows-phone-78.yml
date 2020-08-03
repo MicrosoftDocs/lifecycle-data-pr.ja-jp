@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 7.8
+  description: Windows Phone 7.8 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857702"
+name: Windows Phone 7.8
+summary: >
+  Windows Phone 7.8 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+
+  > [!IMPORTANT]
+
+  > この製品のサポートは終了しました。
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/09/2013
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 02/09/2013
+  endDate: 10/14/2014
+content: "\n\n> [!NOTE]\n> Microsoft は、ライフサイクル開始日の18か月間、セキュリティ更新プログラムを含む、電話のオペレーティングシステムで利用可能な更新を行います。 更新プログラムの配布は、携帯電話会社または電話の購入元の電話の製造元によって制御される場合があります。 更新の可用性は、国、地域、およびハードウェアの機能によっても異なります。"

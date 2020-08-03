@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857711"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます。エージェント、すべて、コミュニティ、簡易版の Web、簡易版の Windows、簡易版の windows デスクトップ、IntelliTrace コレクター、モデル化 SDK、マルチバイト MFC ライブラリ、Premium、Professional、Powershell (分離)、Team Explorer、SDK、Shell (統合)、シェル (分離)、チームエクスプローラー、[テストプロフェッショナル]、[最終
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>バージョン \n* エージェント\n* すべて\n* コミュニティ\n* Web 用の Express\n* Windows 用の Express\n* Windows デスクトップ用の Express\n* IntelliTrace コレクター\n* モデリング SDK\n* マルチバイト MFC ライブラリ\n* Premium\n* プロフェッショナル\n* リリース管理\n* リモートツール\n* SDK\n* シェル (統合)\n* シェル (分離)\n* チームエクスプローラー\n* テストプロフェッショナル\n* 究極的\n* Visual C++ 再頒布可能パッケージ\n* Web ツール拡張機能"

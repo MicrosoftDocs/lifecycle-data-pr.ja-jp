@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 10
+  description: Internet Explorer 10 は、コンポーネントライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857394"
+name: Internet Explorer 10
+summary: >+
+  Internet Explorer 10 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)ライフサイクルポリシーに従います。
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 10/30/2012
+  end: 01/31/2020
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/31/2020
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Internet Explorer のライフサイクルポリシーに関する FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> サポートされているオペレーティングシステムとブラウザーの組み合わせの一覧については、「Internet Explorer ライフサイクルの FAQ」を参照してください。"

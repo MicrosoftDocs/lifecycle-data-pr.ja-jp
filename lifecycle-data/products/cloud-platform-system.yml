@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: クラウドプラットフォームシステム
+  description: クラウドプラットフォームシステムは、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "857517"
+name: クラウドプラットフォームシステム
+summary: >+
+  クラウドプラットフォームシステムは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 01/29/2015
+  end: 04/14/2020
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/29/2015
+  endDate: 07/12/2022
+content: "\n\n> [!NOTE]\n> すべてのお客様に標準的なライフサイクル移行タイムラインを提供するために、クラウドプラットフォームシステムのサポートが拡張されています。\n> [!NOTE]\n> 2017年9月18日に開始されたクラウドプラットフォームシステム標準。"
