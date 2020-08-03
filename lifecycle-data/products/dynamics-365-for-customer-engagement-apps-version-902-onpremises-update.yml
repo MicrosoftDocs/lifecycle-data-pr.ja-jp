@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 顧客契約アプリの Dynamics 365、バージョン 9.0.2 (社内更新)
+  description: Dynamics 365 (顧客契約アプリの場合) バージョン 9.0.2 (オンプレミスの更新) は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 11e70e4e8ef3fb18ab06a385fbe4d9a434121ac6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870454"
+name: 顧客契約アプリの Dynamics 365、バージョン 9.0.2 (社内更新)
+summary: >+
+  Dynamics 365 (顧客契約アプリの場合) バージョン 9.0.2 (オンプレミスの更新) は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 10/31/2018
+  end: 01/09/2024
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release (ver 9.0)
+  startDate: 10/31/2018
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>リンク \n* [サポート情報](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)"

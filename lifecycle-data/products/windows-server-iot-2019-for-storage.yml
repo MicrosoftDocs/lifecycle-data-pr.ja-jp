@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2019 (ストレージ用)
+  description: ストレージ用の Windows Server IoT 2019 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9e346c8980467df3bdbd3c9f9e9667b2fa81f9cf
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870481"
+name: Windows Server IoT 2019 (ストレージ用)
+summary: >+
+  ストレージ用の Windows Server IoT 2019 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、Standard、Workgroup の各エディションに適用されます。
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n\n\n## <a name=\"editions\"></a>バージョン \n* Standard\n* グループ"
