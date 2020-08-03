@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2019
+  description: Visual Studio 2019 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870499"
+name: Visual Studio 2019
+summary: >+
+  Visual Studio 2019 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、エージェント、ビルドツール、コミュニティ、エンタープライズ、for Mac、IntelliTrace スタンドアロンコレクター、パフォーマンスツール、プロフェッショナル、リモートツール、チームエクスプローラー、Visual C++ 再頒布可能パッケージの各エディションに適用されます。
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 04/02/2019
+  end: 04/09/2024
+  extendedEnd: 04/10/2029
+releases:
+- version: Version 16.4
+  startDate: 12/03/2019
+  endDate: 04/10/2029
+- version: Version 16.0
+  startDate: 04/02/2019
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>リンク \n* [アナウンス](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [サービス情報](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>バージョン \n* エージェント\n* ビルドツール\n* コミュニティ\n* 大規模企業\n* for Mac\n* IntelliTrace スタンドアロンコレクター\n* パフォーマンスツール\n* プロフェッショナル\n* リモートツール\n* チームエクスプローラー\n* Visual C++ 再頒布可能パッケージ"
