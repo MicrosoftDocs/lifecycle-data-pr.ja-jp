@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Outlook 2010
+  description: Outlook 2010 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 54e6783e437f7a61c6e49b3b81ff496cc8a765f9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "825895"
+name: Outlook 2010
+summary: >+
+  Outlook 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます。ビジネス向け連絡先マネージャーを使用した標準
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/DeployOffice/office-2010-end-support-roadmap)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* Standard\n* Business Contact Manager による"
