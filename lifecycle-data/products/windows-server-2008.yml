@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826213"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、hyper-v を使用しない Itanium ベースのシステム、Foundation、Standard、hyper-v を使用しない、hyper-v を使用しない hyper-v、Enterprise、Enterprise、without hyper-v、および hyper-v を使用しない次のエディションに適用されます。
+
+
+  > [!IMPORTANT]
+
+  > この製品のサポートは終了しました。 下記の「移行ガイダンス」を参照してください。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://aka.ms/AA1ovn4)\n* [サーバーのアップグレード情報](/windows-server/upgrade/upgrade-overview)\n* [拡張セキュリティ更新プログラム (ESU)](/lifecycle/faq/extended-security-updates)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 拡張セキュリティ更新プログラム (ESU) は、この製品エディションのデータセンター、Standard、Enterprise、および Embedded エディションの特定のボリュームライセンスプログラムによって利用できます。これは、サポート終了後3年間を超えて追加されています。 詳細については、Microsoft パートナーまたはアカウントチームにお問い合わせください。 \n\nリリース-------------------------------の開始日----終了日\n\n拡張セキュリティ更新年 3---01/11/2022---01/10/2023\n\n拡張セキュリティ更新年 2---01/12/2021---01/11/2022\n\n拡張セキュリティ更新年 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation リリース (2009 年5月21日)\n\n## <a name=\"editions\"></a>バージョン \n* データセンター\n* Hyper-v を使用しないデータセンター\n* 大規模企業\n* エンタープライズ (Hyper-v を使用しない)\n* Itanium ベースのシステムの場合\n* 基\n* Standard\n* Standard (Hyper-v なし)\n* Web"
