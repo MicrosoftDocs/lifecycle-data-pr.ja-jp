@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Communications Server 2007 R2
+  description: Microsoft Office Communications Server 2007 R2 は、固定ライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 33d9d5fff1c61fcf44480c75e2a2f7ff3bd72fc9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826343"
+name: Microsoft Office Communications Server 2007 R2
+summary: >+
+  Microsoft Office Communications Server 2007 R2 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+
+
+  これは、次のエディションに適用されます。 XMPP ゲートウェイ
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/28/2009
+  end: 01/08/2013
+  extendedEnd: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 09/28/2009
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP ゲートウェイは9/28/2009 でリリースされました。\n\n## <a name=\"editions\"></a>バージョン \n* XMPP ゲートウェイ"

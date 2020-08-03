@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office の Essentials 2.0 の学習
+  description: Microsoft Office 用の Essentials 2.0 の学習は、コンポーネントライフサイクルポリシーに従います。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "826071"
+name: Microsoft Office の Essentials 2.0 の学習
+summary: >+
+  Microsoft Office 用の Essentials 2.0 の学習は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)ライフサイクルポリシーに従います。
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 04/30/2007
+  end: 07/10/2012
+releases:
+- version: Original Release
+  startDate: 04/30/2007
+  endDate: 07/10/2012
+content: ''
