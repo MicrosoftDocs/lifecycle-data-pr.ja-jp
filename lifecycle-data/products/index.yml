@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: 製品およびサービスのライフサイクル情報を検索する (プレビュー)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> このページは開発中です。 Microsoft 製品の完全なリストと、そのサポートタイムラインおよび詳細については、 [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)を参照してください。\n> [!NOTE]\n> ライフサイクルの[エクスポート](/lifecycle/export/products)ページからライフサイクル情報をエクスポートします。\n\n\nMicrosoft のライフサイクルでは、製品のライフサイクルを通じて、一貫性のある予測可能なガイドラインが提供され、お客様は将来に向けて戦略的な計画を立てる一方で、IT 投資と環境を管理することができます。\n\n\nMicrosoft 市販の製品とサービスの一覧については以下の情報を参照し、その結果を選択してサポートとサービスのタイムライン、必要な更新プログラム、移行情報、およびシステム要件を検索します。"
+summary: "\n\n> [!IMPORTANT]\n> このページは、開発中で、9月2日に完全に有効になります。 それまでの間、 [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)のサポートタイムラインと詳細情報を含む、Microsoft 製品の完全な一覧を表示することができます。\n> [!NOTE]\n> ライフサイクルの [エクスポート](/lifecycle/export/products) ページからライフサイクル情報をエクスポートします。\n\n\nMicrosoft のライフサイクルでは、製品のライフサイクルを通じて、一貫性のある予測可能なガイドラインが提供され、お客様は将来に向けて戦略的な計画を立てる一方で、IT 投資と環境を管理することができます。\n\n\nMicrosoft 市販の製品とサービスの一覧については以下の情報を参照し、その結果を選択してサポートとサービスのタイムライン、必要な更新プログラム、移行情報、およびシステム要件を検索します。"
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882442"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899845"
