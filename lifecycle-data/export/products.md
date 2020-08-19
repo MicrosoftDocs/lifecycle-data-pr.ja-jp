@@ -1,27 +1,27 @@
 ---
-title: 製品をエクスポートする
+title: ライフサイクルデータのエクスポート
 description: 製品ライフサイクル情報をエクスポートする
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899808"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902408"
 ---
-# <a name="export"></a>Export
+# <a name="lifecycle-data-export"></a>ライフサイクルデータのエクスポート
 
 > [!IMPORTANT]
 > このページは開発中です。
 
 ## <a name="export-all-products"></a>すべての製品をエクスポートする
-フィルターを使用せずにすべての製品をエクスポートします。
+以下をクリックして、すべての製品のライフサイクルデータをエクスポートします。
 
 > [!div class="nextstepaction"]
 > [すべての製品をエクスポートする](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>カテゴリ別に製品をエクスポートする
-エクスポートするグループを選択します。
+## <a name="export-products-by-family-and-group"></a>ファミリーとグループで製品をエクスポートする
+ファミリーを選択し、エクスポートするグループを選択します。 注: Group 値が選択されている場合は、エクスポートが開始されます。 
 
 > [!div class="op_multi_selector" title1="製品" title2="グループ"]
 > - [(.NET |いずれ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899808"
 > - [(Windows |Security](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows |Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>サポート年の末までに製品をエクスポートする
-その年に製品の終了サービスをエクスポートする年を選択します。
+## <a name="export-products-by-end-of-support-date"></a>サポート終了日で製品をエクスポートする
+製品のサポート終了を確認する年を選択します。 注: 年の値を選択すると、エクスポートが開始されます。
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
