@@ -1,13 +1,13 @@
 ---
 title: ライフサイクル データのエクスポート
 description: 製品ライフサイクル情報のエクスポート
-ms.date: 08/19/2020
-ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
-ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+ms.date: 08/20/2020
+ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
+ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "903659"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "905216"
 ---
 # <a name="lifecycle-data-export"></a>ライフサイクル データのエクスポート
 
@@ -23,7 +23,7 @@ ms.locfileid: "903659"
 ## <a name="export-products-by-family-and-group"></a>家族やグループ別に製品をエクスポートする
 家族を選び、エクスポートするグループを選きます。 注: グループ値が選択されると、エクスポートが開始されます。 
 
-> [!div class="op_multi_selector" title1="Family (ファミ" title2="グループ"]
+> [!div class="op_multi_selector" title1="Family (ファミ" title2="Group"]
 > - [(.NET |すべて)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
 > - [(.NET | .NET)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET'%20and%20parent/parent/name%20eq%20'.NET')
 > - [(Azure |すべて)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Azure')
