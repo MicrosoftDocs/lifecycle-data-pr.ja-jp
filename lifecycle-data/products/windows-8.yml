@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 は、固定ライフサイクルポリシーに従います。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows 8ライフサイクル ポリシーに従います。
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857486"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906699"
 name: Windows 8
 summary: >
-  Windows 8 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows 8ライフサ [イク](/lifecycle/policies/fixed) ル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: Enterprise、Enterprise N、N、Pro with Media Center、Professional、Professional N
+  これは、次のエディションに適用されます: Enterprise、Enterprise N、N、Pro with Media Center、Professional、Professional N、SL
 
 
   > [!IMPORTANT]
 
-  > この製品のサポートは終了しました。 お客様は、サポートを継続するために、Windows 8.1 に更新する必要があります。
+  > この製品に対するサポートは終了しました。 サポートを維持するには、Windows 8.1 に更新する必要があります。
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルの FAQ-Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>バージョン \n* 大規模企業\n* エンタープライズ N\n* N\n* Pro とメディアセンター\n* プロフェッショナル\n* プロフェッショナル N"
+content: "\n## <a name=\"links\"></a>Links \n* [ライフサイクルに関する FAQ - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>エディション \n* 大規模企業\n* エンタープライズ N\n* N\n* Pro とメディア センター\n* プロフェッショナル\n* Professional N\n* SL"
