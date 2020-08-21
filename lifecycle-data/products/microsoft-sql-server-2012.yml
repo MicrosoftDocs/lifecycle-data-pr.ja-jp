@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2012
-  description: Microsoft SQL Server 2012 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft SQL Server 2012 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857335"
 name: Microsoft SQL Server 2012
 summary: >+
-  Microsoft SQL Server 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft SQL Server 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: ビジネスインテリジェンス、開発者、エンタープライズ、エンタープライズコア、Express、埋め込みシステム、標準、Web
+  これは次のエディションに適用されます。Business Intelligence、Developer、Enterprise、Enterprise Core、Express、for Embedded Systems、Standard、Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* ビジネス インテリジェンス\n* Developer\n* 大規模企業\n* エンタープライズコア\n* ニュース\n* 埋め込みシステムの場合\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* for Embedded Systems\n* Standard\n* Web"

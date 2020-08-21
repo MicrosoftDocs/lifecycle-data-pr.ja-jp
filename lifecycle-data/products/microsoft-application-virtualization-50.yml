@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization 5.0
-  description: Microsoft Application Virtualization 5.0 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Application Virtualization 5.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857388"
 name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5.0 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Application Virtualization 5.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。リモートデスクトップサービス (ターミナルサービスの場合)、Windows デスクトップ用
+  これは次のエディションに適用されます。for Remote Desktop Services、for Terminal Services、for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>リンク \n* [製品情報](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* リモートデスクトップサービスの場合\n* ターミナルサービスの場合\n* Windows デスクトップの場合"
+content: "\n## <a name=\"links\"></a>リンク \n* [製品情報](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* for Remote Desktop Services\n* for Terminal Services\n* for Windows Desktops"

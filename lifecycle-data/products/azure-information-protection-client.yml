@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure Information Protection クライアント
-  description: Azure Information Protection クライアントは、モダンライフサイクルポリシーに従います。
+  description: Azure Information Protection クライアントは、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857228"
 name: Azure Information Protection クライアント
-summary: >+
-  Azure Information Protection クライアントは、[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
-
-
+summary: "Azure Information Protection クライアントは、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。 \n\n\n"
 products:
 - azure
 policyType: modern-online
@@ -24,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> 統合された効率的な顧客の利便性を実現するために、azure Portal での Azure Information Protection クライアント (クラシック) とラベル管理は、2021年3月31日から廃止されました。 このタイムフレームにより、現在のすべての Azure Information Protection のお客様は、Microsoft Information Protection ユニファイドラベリングプラットフォームを使用して、統合されたラベルソリューションに移行できます。"
+content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> 統一かつ合理化されたカスタマー エクスペリエンスを提供するために、Azure Information Protection クライアント (クラシック) と Azure portal のラベル管理は、2021 年 3 月 31 日をもって廃止されます。 この期間により、現在のすべての Azure Information Protection のお客様は、Microsoft Information Protection 統合ラベル付けプラットフォームを使用して、統合ラベル付けソリューションに移行できます。"

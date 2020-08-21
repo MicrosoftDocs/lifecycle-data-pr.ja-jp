@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Endpoint Protection 2010
-  description: Microsoft Forefront Endpoint Protection 2010 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Forefront Endpoint Protection 2010 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857549"
 name: Microsoft Forefront Endpoint Protection 2010
 summary: >
-  Microsoft Forefront Endpoint Protection 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Forefront Endpoint Protection 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > サポートが終了しました。 下記の「移行ガイダンス」を参照してください。
+  > サポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - office
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2011
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [サービス情報](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> お客様は完全にサポートされる最新のマルウェア対策プラットフォームの更新プログラムを最新の状態に保つ必要があります。 Forefront Endpoint Protection 2010 は、メインストリームと拡張サポートの両方について、System Center Configuration Manager 2007 と同じライフサイクルポリシーでカバーされます。"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [サービス情報](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> お客様は、完全にサポートするには、最新のマルウェア対策プラットフォームの更新プログラムを適用して最新の状態を維持する必要があります。 Forefront Endpoint Protection 2010 は、メインストリーム サポートと拡張サポートの両方について、System Center Configuration Manager 2007 と同じライフサイクル ポリシーの対象です。"

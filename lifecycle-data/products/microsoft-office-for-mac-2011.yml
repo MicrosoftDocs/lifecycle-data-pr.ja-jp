@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office for Mac 2011
-  description: Microsoft Office for Mac 2011 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Office for Mac 2011 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857339"
 name: Microsoft Office for Mac 2011
 summary: >+
-  Microsoft Office for Mac 2011 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Office for Mac 2011 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: アカデミック、自宅、会社、自宅および会社の自宅で使用するプログラム、自宅および学生、標準
+  これは次のエディションに適用されます。Academic、Home and Business、Home and Business Home Use Program、Home and Student、Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Office for Mac 2011 のメインストリームサポートは、すべてのお客様に標準的なライフサイクル移行のタイムラインを提供するために、拡張されています。\n\n## <a name=\"editions\"></a>バージョン \n* アカデミック\n* 自宅および企業\n* 自宅および会社の自宅で使用するプログラム\n* 自宅および学生\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Office for Mac 2011 のメインストリーム サポートは、すべてのお客様に標準のライフサイクル移行タイムラインを提供するために、示されているように拡張されています。\n\n## <a name=\"editions\"></a>エディション \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"

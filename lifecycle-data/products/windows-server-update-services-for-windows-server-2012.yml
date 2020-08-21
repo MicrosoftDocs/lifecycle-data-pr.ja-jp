@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows server Update Services for Windows Server 2012
-  description: Windows server Update Services for Windows Server 2012 は、コンポーネントライフサイクルポリシーに従います。
+  title: Windows Server Update Services for Windows Server 2012
+  description: Windows Server Update Services for Windows Server 2012 は、コンポーネント ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857607"
-name: Windows server Update Services for Windows Server 2012
+name: Windows Server Update Services for Windows Server 2012
 summary: >+
-  Windows server Update Services for Windows Server 2012 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)ライフサイクルポリシーに従います。
+  Windows Server Update Services for Windows Server 2012 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ライフサイクル ポリシーに従います。
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 content: >-
   > [!TIP]
 
-  > このコンポーネントは、親製品の Windows Server 2012 のライフサイクルに従います。
+  > このコンポーネントは、親製品である Windows Server 2012 のライフサイクルに従います。

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 R2 エンドポイント保護
-  description: Microsoft System Center 2012 R2 エンドポイント保護は、固定ライフサイクルポリシーに従います。
+  title: Microsoft System Center 2012 R2 Endpoint Protection
+  description: Microsoft System Center 2012 R2 Endpoint Protection は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 8e3f5935bc3b59d2a18a967b2bb5001c0ce01c1d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857334"
-name: Microsoft System Center 2012 R2 エンドポイント保護
+name: Microsoft System Center 2012 R2 Endpoint Protection
 summary: >+
-  Microsoft System Center 2012 R2 エンドポイント保護は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft System Center 2012 R2 Endpoint Protection は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n* [Microsoft エンドポイントマネージャーのドキュメント](/mem/)\n\n> [!NOTE]\n> お客様は完全にサポートされる最新のマルウェア対策プラットフォームの更新プログラムを最新の状態に保つ必要があります。"
+content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n* [Microsoft Endpoint Manager ドキュメント](/mem/)\n\n> [!NOTE]\n> お客様は、完全にサポートするには、最新のマルウェア対策プラットフォームの更新プログラムを適用して最新の状態を維持する必要があります。"

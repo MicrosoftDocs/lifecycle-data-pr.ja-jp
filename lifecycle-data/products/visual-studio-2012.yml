@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Visual Studio 2012 は、固定ライフサイクルポリシーに従います。
+  description: Visual Studio 2012 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857441"
 name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Visual Studio 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: エージェント、コミュニティ2013、Web for Web、express for Windows 8、Express for Windows 8、Express for Windows デスクトップ、[高速]、[Microsoft Azure Tools]、[Premium]、[SQL Server Data Tools]、[Team Explorer]、[テストプロフェッショナル2013、究極、Visual C++ 再頒布可能、Web ツール拡張
+  これは次のエディションに適用されます。Agents、Community 2013、Express for Web、Express for Windows 8、Express for Windows Desktop、IntelliTrace Collector、Microsoft Azure Tools、Premium、Professional、Remote Tools、Shell (Integrated)、Shell (Isolated)、SQL Server Data Tools、Team Explorer、Test Professional 2013、Ultimate、Visual C++ Redistributable、Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>リンク \n* [Visual Studio 製品のライフサイクルとサービス](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>バージョン \n* エージェント\n* コミュニティ2013\n* Web 用の Express\n* Windows 8 用の Express\n* Windows デスクトップ用の Express\n* IntelliTrace コレクター\n* Microsoft Azure ツール\n* Premium\n* プロフェッショナル\n* リモートツール\n* シェル (統合)\n* シェル (分離)\n* SQL Server Data Tools\n* チームエクスプローラー\n* テストプロフェッショナル2013\n* 究極的\n* Visual C++ 再頒布可能パッケージ\n* Web ツール拡張機能"
+content: "\n## <a name=\"links\"></a>リンク \n* [Visual Studio 製品のライフサイクルとサービス](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>エディション \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* リモート ツール\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

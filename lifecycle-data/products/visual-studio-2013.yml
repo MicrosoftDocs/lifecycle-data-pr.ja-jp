@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2013
-  description: Visual Studio 2013 は、固定ライフサイクルポリシーに従います。
+  description: Visual Studio 2013 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857711"
 name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Visual Studio 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。エージェント、すべて、コミュニティ、簡易版の Web、簡易版の Windows、簡易版の windows デスクトップ、IntelliTrace コレクター、モデル化 SDK、マルチバイト MFC ライブラリ、Premium、Professional、Powershell (分離)、Team Explorer、SDK、Shell (統合)、シェル (分離)、チームエクスプローラー、[テストプロフェッショナル]、[最終
+  これは次のエディションに適用されます。Agents、All、Community、Express for Web、Express for Windows、Express for Windows Desktop、IntelliTrace Collector、Modeling SDK、Multibyte MFC Library、Premium、Professional、Release Management、Remote Tools、SDK、Shell (Integrated)、Shell (Isolated)、Team Explorer、Test Professional、Ultimate、Visual C++ Redistributable、Web Tools Extensions
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>バージョン \n* エージェント\n* すべて\n* コミュニティ\n* Web 用の Express\n* Windows 用の Express\n* Windows デスクトップ用の Express\n* IntelliTrace コレクター\n* モデリング SDK\n* マルチバイト MFC ライブラリ\n* Premium\n* プロフェッショナル\n* リリース管理\n* リモートツール\n* SDK\n* シェル (統合)\n* シェル (分離)\n* チームエクスプローラー\n* テストプロフェッショナル\n* 究極的\n* Visual C++ 再頒布可能パッケージ\n* Web ツール拡張機能"
+content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>エディション \n* Agents\n* すべて\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* リモート ツール\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
