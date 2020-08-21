@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Configuration Manager 2007 R3
-  description: Microsoft System Center Configuration Manager 2007 R3 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft System Center Configuration Manager 2007 R3 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857669"
 name: Microsoft System Center Configuration Manager 2007 R3
 summary: >
-  Microsoft System Center Configuration Manager 2007 R3 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft System Center Configuration Manager 2007 R3 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > この製品のサポートは終了しました。 下記の「移行ガイダンス」を参照してください。
+  > この製品のサポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/19/2010
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [その他の移行ガイダンス](/mem/configmgr/core/migration/planning-for-migration)"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [追加の移行ガイダンス](/mem/configmgr/core/migration/planning-for-migration)"

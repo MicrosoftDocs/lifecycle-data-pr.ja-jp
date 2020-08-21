@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT Core
-  description: Windows 10 IoT Core はモダンライフサイクルポリシーに従います。
+  description: Windows 10 IoT Core は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857532"
 name: Windows 10 IoT Core
 summary: >
-  Windows 10 IoT Core は[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Windows 10 IoT Core は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft は、2025年10月14日まで、少なくとも1つの Windows 10 半期チャネルを引き続きサポートします。
+  > マイクロソフトは、2025 年 10 月 14 日まで、少なくとも 1 つの Windows 10 半期チャネルを引き続きサポートします。
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>リンク \n* [製品情報](/windows/iot-core/windows-iot-core)\n* [Windows ライフサイクル ファクト シート](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [サービスとしてのウィンドウ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [ライフサイクルの FAQ-Windows 製品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 延期されていない限り、以降の Windows 10 半期チャネル機能の更新プログラムをインストールするには、その後のメインストリームサポート日付の前にする必要があります。"
+content: "\n## <a name=\"links\"></a>リンク \n* [製品情報](/windows/iot-core/windows-iot-core)\n* [Windows ライフサイクルのファクト シート](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 今後の Windows 10 半期チャネルの機能更新プログラムは、延期されなければ、記載されているメインストリーム サポート期間の終了前にインストールされる場合があります。"

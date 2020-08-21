@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2014
-  description: SQL Server 2014 は、固定ライフサイクルポリシーに従います。
+  description: SQL Server 2014 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857663"
 name: SQL Server 2014
 summary: >+
-  SQL Server 2014 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  SQL Server 2014 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: ビジネスインテリジェンス、開発者、エンタープライズ、エンタープライズコア、エクスプレス、標準、Web
+  これは次のエディションに適用されます。Business Intelligence、Developer、Enterprise、Enterprise Core、Express、Standard、Web
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* ビジネス インテリジェンス\n* Developer\n* 大規模企業\n* エンタープライズコア\n* ニュース\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"

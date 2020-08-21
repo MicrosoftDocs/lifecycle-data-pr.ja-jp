@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008 R2
-  description: Windows Storage Server 2008 R2 は、固定ライフサイクルポリシーに従います。
+  description: Windows Storage Server 2008 R2 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857606"
 name: Windows Storage Server 2008 R2
 summary: >
-  Windows Storage Server 2008 R2 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows Storage Server 2008 R2 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。エッセンシャル、標準
+  これは次のエディションに適用されます。Essentials、Standard
 
 
   > [!IMPORTANT]
 
-  > この製品のサポートは終了しました。 下記の「移行ガイダンス」を参照してください。
+  > この製品のサポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>リンク \n* [サポート終了情報](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [移行ガイダンス](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [拡張セキュリティ更新プログラムに関する FAQ](/lifecycle/faq/extended-security-updates)\n* [サーバーのアップグレード情報](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials エディションは2011年6月28日にリリースされました。\n\n## <a name=\"editions\"></a>バージョン \n* Essentials\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [サポート終了情報](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [移行ガイダンス](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [拡張セキュリティ更新プログラムに関する FAQ](/lifecycle/faq/extended-security-updates)\n* [サーバーのアップグレード情報](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> 2011 年 6 月 28 日にリリースされた Essentials エディション。\n\n## <a name=\"editions\"></a>エディション \n* Essentials\n* Standard"

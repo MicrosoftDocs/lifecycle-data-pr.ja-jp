@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Identity Manager 2016
-  description: Microsoft Identity Manager 2016 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Identity Manager 2016 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857369"
 name: Microsoft Identity Manager 2016
 summary: >+
-  Microsoft Identity Manager 2016 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Identity Manager 2016 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2015
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>リンク \n* [Azure サポートは、Microsoft Identity Manager 2016 の延長サポート終了後に、Azure AD 統合コンポーネントに対して使用できます。](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure サポートプラン。](https://azure.microsoft.com/support/plans/)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n* [製品情報](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n## <a name=\"links\"></a>リンク \n* [Microsoft Identity Manager 2016 の延長サポートが終了するまで、Azure AD 統合コンポーネントに Azure サポートをご利用いただけます。](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure のサポート プラン。](https://azure.microsoft.com/support/plans/)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n* [製品情報](/microsoft-identity-manager/microsoft-identity-manager-2016)"
