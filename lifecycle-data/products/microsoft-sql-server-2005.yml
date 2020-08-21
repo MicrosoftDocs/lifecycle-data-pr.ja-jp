@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2005
-  description: Microsoft SQL Server 2005 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft SQL Server 2005 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825533"
 name: Microsoft SQL Server 2005
 summary: >
-  Microsoft SQL Server 2005 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft SQL Server 2005 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: Compact、Developer、Embedded、Enterprise、Itanium ベースのシステムのエンタープライズ、エンタープライズ X64、Express、Advanced Service、standard、Itanium ベースシステムの標準、standard X64、ワークグループ
+  これは次のエディションに適用されます。Compact、Developer、Embedded、Enterprise、Enterprise for Itanium-based Systems、Enterprise X64, Express、Express with Advanced Services、Standard、Standard for Itanium-based Systems、Standard X64、Workgroup
 
 
   > [!IMPORTANT]
 
-  > この製品のサポートは終了しました。 下記の「移行ガイダンス」を参照してください。
+  > この製品のサポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition は2007年2月19日にリリースされました。\n\n## <a name=\"editions\"></a>バージョン \n* コンパクト\n* Developer\n* [Embedded/埋め込み]\n* 大規模企業\n* Itanium ベースのシステムのエンタープライズ\n* エンタープライズ X64\n* ニュース\n* 高度なサービスを使用する Express\n* Standard\n* Itanium ベースのシステムの標準\n* Standard X64\n* グループ"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 2007 年 2 月 19 日にリリースされた Microsoft SQL Server 2005 Compact Edition。\n\n## <a name=\"editions\"></a>エディション \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Express\n* Express with Advanced Services\n* Standard\n* Standard for Itanium-based Systems\n* Standard X64\n* Workgroup"

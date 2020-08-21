@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows server Update Services for Windows Server 2016
-  description: Windows server Update Services for Windows Server 2016 は、コンポーネントライフサイクルポリシーに従います。
+  title: Windows Server Update Services for Windows Server 2016
+  description: Windows Server Update Services for Windows Server 2016 は、コンポーネント ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 939c37245a4ed7263f746a3baac45b3105d89eda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825493"
-name: Windows server Update Services for Windows Server 2016
+name: Windows Server Update Services for Windows Server 2016
 summary: >+
-  Windows server Update Services for Windows Server 2016 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)ライフサイクルポリシーに従います。
+  Windows Server Update Services for Windows Server 2016 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ライフサイクル ポリシーに従います。
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "> [!TIP]\n> このコンポーネントは、親製品の Windows Server 2016 のライフサイクルに従います。\n\n## <a name=\"links\"></a>リンク \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"
+content: "> [!TIP]\n> このコンポーネントは、親製品である Windows Server 2016 のライフサイクルに従います。\n\n## <a name=\"links\"></a>リンク \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"

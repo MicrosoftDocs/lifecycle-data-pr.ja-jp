@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (インターネットサイト用、内部アプリケーション用)
-  description: FAST Search Server 2010 (インターネットサイト、内部アプリケーションの場合) は、固定ライフサイクルポリシーに従います。
+  title: FAST Search Server 2010 (for Internet Sites、for Internal Applications)
+  description: FAST Search Server 2010 (for Internet Sites、for Internal Applications) は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826102"
-name: FAST Search Server 2010 (インターネットサイト用、内部アプリケーション用)
+name: FAST Search Server 2010 (for Internet Sites、for Internal Applications)
 summary: >+
-  FAST Search Server 2010 (インターネットサイト、内部アプリケーションの場合) は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  FAST Search Server 2010 (for Internet Sites、for Internal Applications) は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。内部アプリケーション、インターネットサイト
+  これは次のエディションに適用されます。Internal Applications、Internet Sites
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [ライフサイクルの FAQ-全般](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 以前にサポートされていないバージョンを除外します。 この製品のサポートには、購入の条項が適用されます。\n\n## <a name=\"editions\"></a>バージョン \n* 内部アプリケーション\n* インターネットサイト"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [ライフサイクルに関する FAQ - 一般](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 以前にサポートされていなかったバージョンは除外します。 この製品のサポートは、製品取得条件の対象となります。\n\n## <a name=\"editions\"></a>エディション \n* Internal Applications\n* Internet Sites"

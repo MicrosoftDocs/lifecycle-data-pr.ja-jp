@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008 Embedded
-  description: Windows Storage Server 2008 は、固定ライフサイクルポリシーに従って埋め込まれています。
+  description: Windows Storage Server 2008 Embedded は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825491"
 name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従って埋め込まれています。
+  Windows Storage Server 2008 Embedded は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます:32 ビット、64ビット、基本、基本的な32ビット、エンタープライズ、標準、ワークグループ
+  これは次のエディションに適用されます。32 ビット、64 ビット、Basic、Basic 32 ビット、Enterprise、Standard、Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> この製品は、サポート終了に到達しました。 移行のガイダンスについては、以下を参照してください。\n\n## <a name=\"editions\"></a>バージョン \n* 32ビット\n* 64ビット\n* 基本\n* 基本的な32ビット\n* 大規模企業\n* Standard\n* グループ"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> この製品のサポートは終了しました。 移行ガイダンスについては、以下を参照してください。\n\n## <a name=\"editions\"></a>エディション \n* 32 ビット\n* 64 ビット\n* Basic\n* Basic 32 ビット\n* Enterprise\n* Standard\n* Workgroup"

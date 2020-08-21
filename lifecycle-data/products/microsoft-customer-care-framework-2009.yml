@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft カスタマーケアフレームワーク2009
-  description: Microsoft カスタマーケアフレームワーク2009は、固定ライフサイクルポリシーに従います。
+  title: マイクロソフト カスタマー ケア フレームワーク 2009
+  description: Microsoft Customer Care Framework 2009 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826000"
-name: Microsoft カスタマーケアフレームワーク2009
+name: マイクロソフト カスタマー ケア フレームワーク 2009
 summary: >
-  Microsoft カスタマーケアフレームワーク2009は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Customer Care Framework 2009 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > サポートが終了しました。 下記の「移行ガイダンス」を参照してください。
+  > サポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - customer-care-framework
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2008
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded Standard 7
-  description: Windows Embedded Standard 7 は、固定ライフサイクルポリシーに従います。
+  description: Windows Embedded Standard 7 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825858"
 name: Windows Embedded Standard 7
 summary: >+
-  Windows Embedded Standard 7 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows Embedded Standard 7 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。標準
+  これは次のエディションに適用されます。Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>リンク \n* [* 拡張セキュリティ更新プログラム (ESU)-select Embedded products の拡張セキュリティ更新プログラムは、Oem から入手できます。](/lifecycle/faq/extended-security-updates)\n* [移行ガイダンス](https://support.microsoft.com/help/4057281)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ' * 拡張セキュリティ更新プログラム (ESU) は、Oem によるサポート終了後3年以上の間、Windows Embedded Standard 7 で利用できます。 詳細については、Microsoft パートナーまたはアカウントチームにお問い合わせください。\n\n## <a name=\"editions\"></a>バージョン \n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [* 拡張セキュリティ更新プログラム (ESU) - 一部の Embedded 製品向けの拡張セキュリティ更新プログラムは、OEM によって提供されます。](/lifecycle/faq/extended-security-updates)\n* [移行ガイダンス](https://support.microsoft.com/help/4057281)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '* Windows Embedded Standard 7 の拡張セキュリティ更新プログラム (ESU) は、OEM によるサポートの終了からさらに最大 3 年間ご利用いただけます。 詳細については、Microsoft パートナーまたはアカウント チームにお問い合わせください。\n\n## <a name=\"editions\"></a>エディション \n* Standard"

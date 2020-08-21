@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2003 校正ツール
-  description: Microsoft Office 2003 校正ツールは、固定ライフサイクルポリシーに従います。
+  title: Microsoft Office 2003 Proofing Tools
+  description: Microsoft Office 2003 Proofing Tools は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826347"
-name: Microsoft Office 2003 校正ツール
+name: Microsoft Office 2003 Proofing Tools
 summary: >+
-  Microsoft Office 2003 校正ツールは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Office 2003 Proofing Tools は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
