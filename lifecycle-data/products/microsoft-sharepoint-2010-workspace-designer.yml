@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (ワークスペース、デザイナー)
-  description: Microsoft SharePoint 2010 (ワークスペース、デザイナー) は、固定ライフサイクルポリシーに従います。
+  title: Microsoft SharePoint 2010 (Workspace、Designer)
+  description: Microsoft SharePoint 2010 (Workspace、Designer) は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825385"
-name: Microsoft SharePoint 2010 (ワークスペース、デザイナー)
+name: Microsoft SharePoint 2010 (Workspace、Designer)
 summary: >+
-  Microsoft SharePoint 2010 (ワークスペース、デザイナー) は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft SharePoint 2010 (Workspace、Designer) は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: Designer、Workspace
+  これは次のエディションに適用されます。Designer、Workspace
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [開発者ドキュメント](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [製品ドキュメント](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>バージョン \n* Designer\n* Workspace"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [開発者ドキュメント](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [製品ドキュメント](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>エディション \n* Designer\n* Workspace"

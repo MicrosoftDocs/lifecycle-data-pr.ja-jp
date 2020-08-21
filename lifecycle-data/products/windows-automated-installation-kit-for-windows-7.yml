@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 7 用 windows 自動インストールキット
-  description: Windows 7 用 windows 自動インストールキットは、固定ライフサイクルポリシーに従います。
+  title: Windows 7 用 Windows 自動インストール キット
+  description: Windows Automated Installation Kit for Windows 7 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825344"
-name: Windows 7 用 windows 自動インストールキット
+name: Windows 7 用 Windows 自動インストール キット
 summary: >
-  Windows 7 用 windows 自動インストールキットは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows Automated Installation Kit for Windows 7 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 

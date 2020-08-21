@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team System 2008
-  description: Visual Studio Team System 2008 は、固定ライフサイクルポリシーに従います。
+  description: Visual Studio Team System 2008 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825873"
 name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Visual Studio Team System 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、すべて、アーキテクチャ、データベース、開発、チームエクスプローラー、チームテストロードエージェントの各エディションに適用されます。
+  これは次のエディションに適用されます。All、Architecture、Database、Development、Team Explorer、Team Test Load Agent
 
 
   > [!IMPORTANT]
 
-  > サポートが終了しました。 下記の「移行ガイダンス」を参照してください。
+  > サポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - vs
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [移行ガイダンス](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* すべて\n* アーキテクチャ\n* データベース\n* 開発\n* チームエクスプローラー\n* チームテストのロードエージェント"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [移行ガイダンス](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* すべて\n* アーキテクチャ\n* Database\n* 開発\n* Team Explorer\n* Team Test Load Agent"

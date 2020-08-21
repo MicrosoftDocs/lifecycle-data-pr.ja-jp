@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Sync Framework 1.0
-  description: Microsoft Sync Framework 1.0 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Sync Framework 1.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825946"
 name: Microsoft Sync Framework 1.0
 summary: >
-  Microsoft Sync Framework 1.0 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Sync Framework 1.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>リンク \n* [製品情報](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Sync Framework 1.0 SP1 のサポートは、SharePoint Server 2010、2013、2016、または2019のコンポーネントとして分散されていない限り、指定した日付に終了します。 コンポーネントは、親製品またはプラットフォームと同じサポートを受け取ります。"
+content: "\n## <a name=\"links\"></a>リンク \n* [製品情報](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Sync Framework 1.0 SP1 のサポートは、SharePoint Server 2010、2013、2016、または 2019 のコンポーネントとして配布されない限り、示された日付で終了します。 コンポーネントのサポートは、その親製品またはプラットフォームと同じです。"

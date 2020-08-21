@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2007 Microsoft Office system 用の microsoft Office 2003 Web コンポーネント
-  description: 2007 Microsoft Office system 用の microsoft Office 2003 Web コンポーネントは、コンポーネントライフサイクルポリシーに従います。
+  title: Microsoft Office 2003 Web Components for the 2007 Microsoft Office system
+  description: Microsoft Office 2003 Web Components for the 2007 Microsoft Office system は、コンポーネント ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825407"
-name: 2007 Microsoft Office system 用の microsoft Office 2003 Web コンポーネント
+name: Microsoft Office 2003 Web Components for the 2007 Microsoft Office system
 summary: >+
-  2007 Microsoft Office system 用の microsoft Office 2003 Web コンポーネントは、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)ライフサイクルポリシーに従います。
+  Microsoft Office 2003 Web Components for the 2007 Microsoft Office system は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ライフサイクル ポリシーに従います。
 
 
 products:

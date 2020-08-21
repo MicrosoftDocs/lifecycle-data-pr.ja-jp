@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Content Management Server 2002
-  description: Microsoft Content Management Server 2002 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Content Management Server 2002 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826005"
 name: Microsoft Content Management Server 2002
 summary: >+
-  Microsoft Content Management Server 2002 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Content Management Server 2002 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。 Enterprise、Standard
+  これは次のエディションに適用されます。Enterprise、Standard
 
 products:
 - microsoft-servers
@@ -36,4 +36,4 @@ releases:
 - version: Service Pack 1
   startDate: 09/16/2003
   endDate: 07/11/2006
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> この製品の Enterprise edition には、2002年11月7日の開始日が含まれています。 \n\n## <a name=\"editions\"></a>バージョン \n* 大規模企業\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> この製品の Enterprise エディションの開始日は 2002 年 11 月 7 日です。 \n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Standard"

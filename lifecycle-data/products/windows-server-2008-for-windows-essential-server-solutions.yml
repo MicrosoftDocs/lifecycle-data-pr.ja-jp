@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2008 for Windows の重要なサーバーソリューション
-  description: Windows Server 2008 for Windows Server の重要なサーバーソリューションは、固定ライフサイクルポリシーに従います。
+  title: Windows Server 2008 for Windows Essential Server Solutions
+  description: Windows Server 2008 for Windows Essential Server Solutions は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825842"
-name: Windows Server 2008 for Windows の重要なサーバーソリューション
+name: Windows Server 2008 for Windows Essential Server Solutions
 summary: >
-  Windows Server 2008 for Windows Server の重要なサーバーソリューションは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows Server 2008 for Windows Essential Server Solutions は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、Hyper-v を使用せずに、次のエディションに適用されます。
+  これは次のエディションに適用されます。Standard、without Hyper-V
 
 
   > [!IMPORTANT]
 
-  > この製品のサポートは終了しました。 下記の「移行ガイダンス」を参照してください。
+  > この製品のサポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://aka.ms/AA1ovn4)\n* [製品情報](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>バージョン \n* Standard\n* Hyper-v なし"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://aka.ms/AA1ovn4)\n* [製品情報](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>エディション \n* Standard\n* without Hyper-V"

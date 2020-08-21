@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010 は、固定ライフサイクルポリシーに従います。
+  description: Visual Studio 2010 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825506"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Visual Studio 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。エージェント、All、ASP .NET MVC 4、Express、F # 2.0 Runtime、Lab Management、Performance Tools、Premium、Professional、Remote Debugger、SDK、Shell (統合)、シェル (分離)、チームエージェント、チームエクスプローラー、テスト担当者、Office System 4.0 Runtime、Ultimate、VB Express、Visual C# Express、Visual C++ Express、Visual Web Developer Express、ビジュアライゼーション & モデリング SDK
+  これは次のエディションに適用されます。Agents、All、ASP .NET MVC 4、Express、F# 2.0 Runtime、Lab Management、Performance Tools、Premium、Professional、Remote Debugger、SDK、Shell (Integrated)、Shell (Isolated)、Team Agents、Team Explorer、Test Professional、Tools for Office System 4.0 Runtime、Ultimate、VB Express、Visual C# Express、Visual C++ Express、Visual Web Developer Express、Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* エージェント\n* すべて\n* ASP .NET MVC 4\n* ニュース\n* F # 2.0 ランタイム\n* ラボ管理\n* パフォーマンスツール\n* Premium\n* プロフェッショナル\n* リモートデバッガー\n* SDK\n* シェル (統合)\n* シェル (分離)\n* チームエージェント\n* チームエクスプローラー\n* テストプロフェッショナル\n* Office System 4.0 ランタイム用のツール\n* 究極的\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* ビジュアライゼーション & モデリング SDK"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* Agents\n* すべて\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Remote Debugger\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools for Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
