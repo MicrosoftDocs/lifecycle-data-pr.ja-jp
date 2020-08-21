@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server
-  description: Windows Server はモダンライフサイクルポリシーに従います。
+  description: Windows Server は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870583"
 name: Windows Server
 summary: >+
-  Windows Server は[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Windows Server は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: データセンター、標準
+  これは次のエディションに適用されます。Datacenter、Standard
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>リンク \n* [Windows Server サービスチャネル: LTSC および SAC](/windows-server/get-started-19/servicing-channels-19)\n* [ライフサイクルの FAQ-Windows 製品](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 年10月の更新プログラム (バージョン 1809) は、2018年11月13日に再リリースされました。 サポート日付は、それに応じて調整されています。\n\n## <a name=\"editions\"></a>バージョン \n* データセンター\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [Windows Server サービス チャネル: LTSC と SAC](/windows-server/get-started-19/servicing-channels-19)\n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 October Update (Version 1809) は 2018 年 11 月 13 日に再リリースされました。 サポート期間は適宜調整されました。\n\n## <a name=\"editions\"></a>エディション \n* Datacenter\n* Standard"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Business Central on-premises (モダンポリシー)
-  description: Dynamics 365 Business Central on on-premises (モダンポリシー) は、モダンライフサイクルポリシーに従います。
+  title: Dynamics 365 Business Central オンプレミス (モダン ポリシー)
+  description: Dynamics 365 Business Central オンプレミス (モダン ポリシー) は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870458"
-name: Dynamics 365 Business Central on-premises (モダンポリシー)
+name: Dynamics 365 Business Central オンプレミス (モダン ポリシー)
 summary: >+
-  Dynamics 365 Business Central on on-premises (モダンポリシー) は、[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Dynamics 365 Business Central オンプレミス (モダン ポリシー) は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:

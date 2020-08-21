@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 の人材
-  description: 人材の Dynamics 365 は、最新のライフサイクルポリシーに従います。
+  title: Dynamics 365 for Talent
+  description: Dynamics 365 for Talent は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870468"
-name: Dynamics 365 の人材
+name: Dynamics 365 for Talent
 summary: >+
-  人材の Dynamics 365 は、[最新](/lifecycle/policies/modern)のライフサイクルポリシーに従います。
+  Dynamics 365 for Talent は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。オンボード
+  これは次のエディションに適用されます。Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>リンク \n* [システム要件](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [移行ガイダンス](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> 惹きおよびオンボードアプリは2022年2月2日に廃止されます。  コア HR relaunched as Dynamics 365 (2020 年2月1日) は、詳細については「移行ガイダンス」を参照してください。\n\n## <a name=\"editions\"></a>バージョン \n* 取り付け"
+content: "\n## <a name=\"links\"></a>リンク \n* [システム要件](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [移行ガイダンス](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract および Onboard アプリは 2022 年 2 月 2 日に廃止されます。  Core HR が 2020 年 2 月 1 日に Dynamics 365 Human Resources として再開されました。詳細については、移行ガイダンスを参照してください。\n\n## <a name=\"editions\"></a>エディション \n* Onboard"
