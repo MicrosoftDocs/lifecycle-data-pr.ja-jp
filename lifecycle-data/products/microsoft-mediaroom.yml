@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom は固定ライフサイクル ポリシーに従います。
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907296"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom は固定ライフサ [イクル](/lifecycle/policies/fixed) ポリシーに従います。
+
+
+  これは、Application Services 1.0、クライアント 2.0、クライアント 2.1、Server 2.0、Server 2.1 の各エディションに適用されます。
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson は、2013 年に Microsoft Mediaroom 製品を取得しました。 詳細については、プレス リリースを [参照してください](http://www.ericsson.com/news/1691160)。 サポートが必要なお客様は、こちらを [参照してください](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)。\n> [!NOTE]\n> Microsoft Mediaroom クライアント 2.1 は 2011 年 12 月 27 日にリリースされました。 \n\n## <a name=\"editions\"></a>エディション \n* アプリケーション サービス 1.0\n* クライアント 2.0\n* クライアント 2.1\n* Server 2.0\n* Server 2.1"
