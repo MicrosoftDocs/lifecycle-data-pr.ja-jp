@@ -2,15 +2,24 @@
 metadata:
   title: Windows Vista
   description: Windows Vista では、固定ライフサイクル ポリシーに従います。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 5c98fe7339f950e080d2ae0450774abb13d9e7c6
+  ms.sourcegitcommit: 70c4608ec6344869c74ed63ff3f0e2ccb0dce3a0
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "825490"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903092"
 name: Windows Vista
-summary: "Windows Vista では、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。 \n\nこれは次のエディションに適用されます。Business、Business N、Enterprise、Enterprise X64、Home Basic、Home Basic 64 ビット、Home Basic N、Home Basic N 64 ビット、Home Premium、Home Premium 64 ビット、Starter、Ultimate、Ultimate 64 ビット\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。移行情報については、以下を参照してください。\n"
+summary: >
+  Windows Vista では、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
+
+
+  これは次のエディションに適用されます。Business、Business N、Business N 64 ビット、Enterprise、Enterprise X64、Home Basic、Home Basic 64 ビット、Home Basic N、Home Basic N 64 ビット、Home Premium、Home Premium 64ビット、Starter、Ultimate、Ultimate 64 ビット
+
+
+  > [!IMPORTANT]
+
+  > この製品のサポートは終了しました。移行情報については、以下を参照してください。
 products:
 - windows
 policyType: fixed
@@ -28,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows のアップグレードと移行に関する考慮事項](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64 ビット\n* Home Basic N\n* Home Basic N 64 ビット\n* Home Premium\n* Home Premium 64ビット\n* Starter\n* Ultimate\n* Ultimate 64 ビット"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows のアップグレードと移行に関する考慮事項](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* Business\n* Business N\n* Business N 64 ビット\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64 ビット\n* Home Basic N\n* Home Basic N 64 ビット\n* Home Premium\n* Home Premium 64ビット\n* Starter\n* Ultimate\n* Ultimate 64 ビット"
