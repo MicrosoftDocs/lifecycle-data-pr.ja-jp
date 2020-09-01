@@ -1,23 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Endpoint Configuration Manager
-  description: Microsoft Endpoint Configuration Manager は最新のライフサイクル ポリシーに従っています。
-  ms.date: 08/20/2020
-  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  description: Microsoft エンドポイント構成マネージャーは、モダンライフサイクルポリシーに従います。
+  ms.date: 09/01/2020
+  keywords: SCCM,System Center Configuration Manager
+  ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905895"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934049"
 name: Microsoft Endpoint Configuration Manager
 summary: >
-  Microsoft Endpoint Configuration Manager は最新のライフサイ [クル](/lifecycle/policies/modern) ポリシーに従っています。
+  Microsoft エンドポイント構成マネージャーは、 [モダン](/lifecycle/policies/modern) ライフサイクルポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > バージョン 1910 以降、Configuration Manager が Microsoft エンドポイント マネージャーの一部となり、なり、エンドポイント マネージャーがサポートされました。
+  > バージョン1910以降では、構成マネージャーが Microsoft エンドポイントマネージャーの一部になっています。
 products:
 - m365
 policyType: modern-on-prem
@@ -69,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Links \n* [サービス情報](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [バージョンの詳細](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager を Microsoft Endpoint Configuration Manager とな](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [履歴バージョン](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Configuration Manager とは](/mem/configmgr/core/understand/introduction)\n\n\n\nキーワード: SCCM、System Center Configuration Manager"
+content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [バージョンの詳細](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager が Microsoft エンドポイント構成マネージャーになっています](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [履歴バージョン](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [構成マネージャーとは](/mem/configmgr/core/understand/introduction)"

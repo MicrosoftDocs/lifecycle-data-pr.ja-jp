@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HIPAA 2.0 用 Microsoft BizTalk Accelerator
-  description: HIPAA 2.0 用の Microsoft BizTalk Accelerator は固定ライフサイクル ポリシーに従っています。
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 09c6fc47a6b2f21bb6325d7451927076984c2a5f
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  title: Microsoft BizTalk Accelerator for HIPAA 2.0
+  description: Microsoft BizTalk Accelerator for HIPAA 2.0 は、固定ライフサイクルポリシーに従います。
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: aab9e80e120618a791c1636446425b56d9d36995
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904266"
-name: HIPAA 2.0 用 Microsoft BizTalk Accelerator
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935307"
+name: Microsoft BizTalk Accelerator for HIPAA 2.0
 summary: >+
-  HIPAA 2.0 用の Microsoft BizTalk Accelerator は固定ライフサ [イクル ポリシー](/lifecycle/policies/fixed) に従っています。
+  Microsoft BizTalk Accelerator for HIPAA 2.0 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
 
 
-  これは、Enterprise、Standard の各エディションに適用されます。
+  これは次のエディションに適用されます。Enterprise、Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/15/2003
   endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>エディション \n* 大規模企業\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Standard"
