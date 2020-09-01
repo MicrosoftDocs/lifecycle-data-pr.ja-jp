@@ -2,16 +2,17 @@
 metadata:
   title: 式4
   description: 式4は、固定ライフサイクルポリシーに従います。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "825423"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930867"
 name: 式4
 summary: >+
-  式4は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  式4は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
 
 
   これは、次のエディションに適用されます: Design、Encoder、Studio Ultimate、Web
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Expression Studio Ultimate 4 のメインストリームサポートの終了は、2015年10月13日です。\n\n## <a name=\"editions\"></a>バージョン \n* デザイン\n* エンコーダー\n* Studio Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> Expression Studio Ultimate 4 のメインストリームサポートの終了は、2015年10月13日です。\n\n## <a name=\"editions\"></a>エディション \n* デザイン\n* エンコーダー\n* Studio Ultimate\n* Web"

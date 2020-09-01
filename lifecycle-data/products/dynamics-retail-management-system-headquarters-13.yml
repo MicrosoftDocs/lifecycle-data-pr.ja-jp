@@ -2,19 +2,20 @@
 metadata:
   title: Dynamics Retail 管理システム1.3
   description: Dynamics 小売り管理システム1.3 は、固定ライフサイクルポリシーに従います。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Headquarters,Store Operations
+  ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "825674"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931708"
 name: Dynamics Retail 管理システム1.3
 summary: >+
-  Dynamics 小売り管理システム1.3 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Dynamics 小売り管理システム1.3 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
 
 
-  これは、次のエディションに適用されます。本社、ストアの操作
+  これは次のエディションに適用されます。Headquarters、Store Operations
 
 products:
 - dynamics
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/31/2006
   endDate: 04/12/2011
-content: "\n\n\n## <a name=\"editions\"></a>バージョン \n* 本社\n* ストア操作"
+content: "\n\n\n## <a name=\"editions\"></a>エディション \n* Headquarters\n* Store Operations"
