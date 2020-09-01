@@ -2,15 +2,16 @@
 metadata:
   title: 演算
   description: 式は、固定ライフサイクルポリシーに従います。
-  ms.date: 08/12/2020
-  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893393"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936232"
 name: 演算
-summary: "式は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。\n\nこれは、次のエディションに適用されます: Blend、Design、Encoder、Studio\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
+summary: "式は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。\n\nこれは、次のエディションに適用されます: Blend、Design、Encoder、Studio\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Expression Blend の開始日は、2007年7月13日です。 \n\n## <a name=\"editions\"></a>バージョン \n* Blend\n* デザイン\n* エンコーダー\n* Studio"
+content: "\n\n> [!NOTE]\n> Expression Blend の開始日は、2007年7月13日です。 \n\n## <a name=\"editions\"></a>エディション \n* Blend\n* デザイン\n* エンコーダー\n* Studio"
