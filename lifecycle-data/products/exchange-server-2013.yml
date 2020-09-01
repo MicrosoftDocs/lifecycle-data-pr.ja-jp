@@ -2,19 +2,20 @@
 metadata:
   title: Exchange Server 2013
   description: Exchange Server 2013 は、固定ライフサイクルポリシーに従います。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 208a159b324e9631fcc2d5a54b42e00fc9aff7e3
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857472"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931311"
 name: Exchange Server 2013
 summary: >+
-  Exchange Server 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Exchange Server 2013 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
 
 
-  これは、次のエディションに適用されます。 Enterprise、Standard
+  これは次のエディションに適用されます。Enterprise、Standard
 
 products:
 - office
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスのガイドライン](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>バージョン \n* 大規模企業\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [サービスのガイドライン](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Standard"
