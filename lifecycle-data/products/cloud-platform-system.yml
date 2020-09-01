@@ -2,19 +2,20 @@
 metadata:
   title: クラウドプラットフォームシステム
   description: クラウドプラットフォームシステムは、固定ライフサイクルポリシーに従います。
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891885"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932051"
 name: クラウドプラットフォームシステム
 summary: >+
-  クラウドプラットフォームシステムは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  クラウドプラットフォームシステムは、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
 
 
-  これは、次のエディションに適用されます。標準
+  これは次のエディションに適用されます。Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> すべてのお客様に標準的なライフサイクル移行タイムラインを提供するために、クラウドプラットフォームシステムのサポートが拡張されています。\n> [!NOTE]\n> 2017年9月18日に開始されたクラウドプラットフォームシステム標準。\n\n## <a name=\"editions\"></a>バージョン \n* Standard"
+content: "\n\n> [!NOTE]\n> すべてのお客様に標準的なライフサイクル移行タイムラインを提供するために、クラウドプラットフォームシステムのサポートが拡張されています。\n> [!NOTE]\n> 2017年9月18日に開始されたクラウドプラットフォームシステム標準。\n\n## <a name=\"editions\"></a>エディション \n* Standard"
