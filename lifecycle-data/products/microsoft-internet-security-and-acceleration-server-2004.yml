@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Security and Acceleration Server 2004
-  description: Microsoft Internet Security and Acceleration Server 2004 には固定ライフサイクル ポリシーが適用されます。
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  title: Microsoft インターネットセキュリティおよびアクセラレータサーバー2004
+  description: Microsoft インターネットセキュリティおよびアクセラレーションサーバー2004は、固定ライフサイクルポリシーに従います。
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904245"
-name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 には固定ライフサイ [クル ポリシー](/lifecycle/policies/fixed) が適用されます。\n\nこれは、Enterprise、Standard の各エディションに適用されます。\n\n> [!IMPORTANT]\n> この製品に対するサポートは終了しました。 \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933494"
+name: Microsoft インターネットセキュリティおよびアクセラレータサーバー2004
+summary: "Microsoft インターネットセキュリティおよびアクセラレーションサーバー2004は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。\n\nこれは次のエディションに適用されます。Enterprise、Standard\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [サービス パック ポリシー](/lifecycle/policies/fixed#service-packs)\n* [移行ガイダンス](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>エディション \n* 大規模企業\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n* [移行ガイダンス](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Standard"

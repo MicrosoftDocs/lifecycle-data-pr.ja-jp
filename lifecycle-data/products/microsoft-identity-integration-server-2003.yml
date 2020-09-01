@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Identity Integration Server 2003
   description: Microsoft Identity Integration Server 2003 は、固定ライフサイクル ポリシーに従います。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: a1ef4c754fdb32948d2e6e965d554076955dd544
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "825661"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933531"
 name: Microsoft Identity Integration Server 2003
 summary: "Microsoft Identity Integration Server 2003 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。\n\nこれは次のエディションに適用されます。Enterprise\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
 products:
