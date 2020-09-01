@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded Device Manager 2011
-  description: Windows Embedded Device Manager 2011 には固定のライフサイクル ポリシーが適用されます。
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  title: Windows Embedded デバイスマネージャー2011
+  description: Windows Embedded Device Manager 2011 は、固定ライフサイクルポリシーに従います。
+  ms.date: 09/01/2020
+  keywords: Client,SDK,Server
+  ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906778"
-name: Windows Embedded Device Manager 2011
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939932"
+name: Windows Embedded デバイスマネージャー2011
 summary: >
-  Windows Embedded Device Manager 2011 には固定のライフサ [イクル](/lifecycle/policies/fixed) ポリシーが適用されます。
+  Windows Embedded Device Manager 2011 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
 
 
-  これは、クライアント、SDK、サーバーの各エディションに適用されます。
+  これは、次のエディションに適用されます。クライアント、SDK、サーバー
 
 
   > [!IMPORTANT]
 
-  > この製品に対するサポートは終了しました。
+  > この製品のサポートは終了しました。
 products:
 - windows
 policyType: fixed
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Links \n* [サービス パック ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* クライアント\n* SDK\n* サーバー"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* クライアント\n* SDK\n* サーバー"
