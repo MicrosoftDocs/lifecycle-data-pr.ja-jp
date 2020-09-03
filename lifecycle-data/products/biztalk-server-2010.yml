@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2010
-  description: BizTalk Server 2010 は固定ライフサイクル ポリシーに従います。
+  description: BizTalk Server 2010 は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/19/2020
   ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903696"
 name: BizTalk Server 2010
 summary: >+
-  BizTalk Server 2010 には、固定のライフ [サイクル](/lifecycle/policies/fixed) ポリシーに従います。
+  BizTalk Server 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、Branch、Developer、Enterprise、Enterprise RFID、Standard の各エディションに適用されます。
+  これは次のエディションに適用されます。Branch、Developer、Enterprise、Enterprise RFID、Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [移行ガイダンス](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [バージョン情報](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>エディション \n* ブランチ\n* Developer\n* 大規模企業\n* Enterprise RFID\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [バージョン情報](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>エディション \n* Branch\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"

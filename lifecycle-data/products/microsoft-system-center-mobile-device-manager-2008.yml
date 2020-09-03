@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
-  description: Microsoft System Center Mobile Device Manager 2008 には固定のライフサイクル ポリシーが適用されます。
+  description: Microsoft System Center Mobile Device Manager 2008 は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906290"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center Mobile Device Manager 2008 には固定のライフサ [イクル](/lifecycle/policies/fixed) ポリシーが適用されます。
+  Microsoft System Center Mobile Device Manager 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、該当するすべてのエディション、wSQL の各エディションに適用されます。
+  これは次のエディションに適用されます。適用可能なすべて、wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [移行ガイダンス](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [サービス パック ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* すべて適用可能\n* wSQL"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* All applicable\n* wSQL"
