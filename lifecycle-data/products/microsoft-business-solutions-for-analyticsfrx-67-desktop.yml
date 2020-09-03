@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Analytics のための Microsoft Business Solutions--.Frx 6.7 デスクトップ
-  description: Analytics のための Microsoft Business Solutions--.Frx 6.7 デスクトップは、固定ライフサイクルポリシーに従います。
+  title: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
+  description: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826028"
-name: Analytics のための Microsoft Business Solutions--.Frx 6.7 デスクトップ
+name: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
 summary: >+
-  Analytics のための Microsoft Business Solutions--.Frx 6.7 デスクトップは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Business Solutions for Analytics--FRx 6.7 Desktop は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2004
   endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> .Frx サポートは、Dynamics 製品のコンポーネントとして分散されていない限り、指定された日付に終了します。 Dynamics 製品と共に配布する場合、Dynamics のライフサイクル日付は .Frx の日付よりも優先されます。"
+content: "\n\n> [!NOTE]\n> FRx のサポートは、Dynamics 製品のコンポーネントとして配布されている場合を除き、ここで示された日付で終了します。 Dynamics 製品と共に配布すると、Dynamics ライフサイクルの日付は FRx の日付よりも優先されます。"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Operations Manager 2005 の Engyro 製品コネクタ
-  description: Microsoft Operations Manager 2005 の Engyro 製品コネクタは、固定ライフサイクルポリシーに従います。
+  title: Engyro Product Connectors for Microsoft Operations Manager 2005
+  description: Engyro Product Connectors for Microsoft Operations Manager 2005 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826111"
-name: Microsoft Operations Manager 2005 の Engyro 製品コネクタ
+name: Engyro Product Connectors for Microsoft Operations Manager 2005
 summary: >+
-  Microsoft Operations Manager 2005 の Engyro 製品コネクタは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Engyro Product Connectors for Microsoft Operations Manager 2005 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:

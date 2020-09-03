@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2003
-  description: Exchange Server 2003 は、固定ライフサイクルポリシーに従います。
+  description: Exchange Server 2003 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a2858bb27edff6224fcdc816c1c16c11193d7ed
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825429"
 name: Exchange Server 2003
 summary: >+
-  Exchange Server 2003 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Exchange Server 2003 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。 Enterprise、Standard
+  これは次のエディションに適用されます。Enterprise、Standard
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2003
   endDate: 05/25/2005
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* 大規模企業\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Standard"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Project Server 2007
-  description: Microsoft Office Project Server 2007 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Office Project Server 2007 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 48e17ee16d2f4b27ef54521d79f687a624caa795
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825965"
 name: Microsoft Office Project Server 2007
 summary: >+
-  Microsoft Office Project Server 2007 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Office Project Server 2007 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:

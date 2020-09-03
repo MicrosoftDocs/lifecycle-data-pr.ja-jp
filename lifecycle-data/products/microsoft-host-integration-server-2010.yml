@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Host Integration Server 2010
-  description: Microsoft Host Integration Server 2010 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Host Integration Server 2010 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a46293719b430954ce5a27c1cea86948dfd35cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825663"
 name: Microsoft Host Integration Server 2010
 summary: >
-  Microsoft Host Integration Server 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Host Integration Server 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > この製品のサポートは、2021年1月12日に終了します。 下記の「移行ガイダンス」を参照してください。
+  > この製品のサポートは 2021 年 1 月 12 日に終了します。 以下の移行ガイダンスを参照してください。
 products:
 - microsoft-servers
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [その他の移行情報](/host-integration-server/install-and-config-guides/his-migration-tool-2020)"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [その他の移行ガイダンス](/host-integration-server/install-and-config-guides/his-migration-tool-2020)"

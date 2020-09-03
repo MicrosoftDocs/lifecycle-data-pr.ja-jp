@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ソフトウェアライセンスおよび保護サーバー
-  description: ソフトウェアライセンスおよび保護サーバーは、固定ライフサイクルポリシーに従います。
+  title: Software Licensing and Protection Server
+  description: Software Licensing and Protection Server は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825374"
-name: ソフトウェアライセンスおよび保護サーバー
+name: Software Licensing and Protection Server
 summary: >
-  ソフトウェアライセンスおよび保護サーバーは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Software Licensing and Protection Server は、 [固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。 Enterprise、Standard
+  これは次のエディションに適用されます。Enterprise、Standard
 
 
   > [!IMPORTANT]
 
-  > 事業のソフトウェアライセンスおよび保護サーバー (SLPS) のため、Microsoft は2009年9月24日まで、SLPS をサポートしています。
+  > Software Licensing and Protection Server (SLPS) の売却により、SLPS のサポートは 2009 年 9 月 24 日で終了しています。
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>リンク \n* [ソフトウェアライセンスおよび保護サーバー (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>バージョン \n* 大規模企業\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Standard"

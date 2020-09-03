@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 3.0
-  description: Microsoft .NET Framework 3.0 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft .NET Framework 3.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: a237dbb82803402d137fc784cf184e58b604015b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825973"
 name: Microsoft .NET Framework 3.0
 summary: >+
-  Microsoft .NET Framework 3.0 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft .NET Framework 3.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルの FAQ-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [製品情報](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> 3.5 SP1 より前の .NET Framework 3 .x バージョンのサポートは、2011年7月12日に終了しました。"
+content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルに関する FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [製品情報](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> 3.5 SP1 よりも前の .NET Framework 3.x バージョンのサポートは 2011 年 7 月 12 日に終了しました。"
