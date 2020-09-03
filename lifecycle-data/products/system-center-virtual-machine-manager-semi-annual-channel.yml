@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Virtual Machine Manager 半期半期チャネル
-  description: System Center Virtual Machine Manager 半期チャネルは、モダンライフサイクルポリシーに従います。
+  title: System Center Virtual Machine Manager 半期チャネル
+  description: System Center Virtual Machine Manager 半期チャネルは、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870558"
-name: System Center Virtual Machine Manager 半期半期チャネル
+name: System Center Virtual Machine Manager 半期チャネル
 summary: >
-  System Center Virtual Machine Manager 半期チャネルは、[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  System Center Virtual Machine Manager 半期チャネルは、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > サポートが終了しました。 下記の「移行ガイダンス」を参照してください。
+  > サポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - msc
 policyType: modern-on-prem

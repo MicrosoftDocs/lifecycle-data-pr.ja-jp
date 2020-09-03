@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded 8.1 Industry
-  description: Windows Embedded 8.1 Industry は固定ライフサイクル ポリシーに従います。
+  description: Windows Embedded 8.1 Industry は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/21/2020
   ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906921"
 name: Windows Embedded 8.1 Industry
 summary: >+
-  Windows Embedded 8.1 Industry は固定ライフサ [イクル ポリシー](/lifecycle/policies/fixed) に従います。
+  Windows Embedded 8.1 Industry は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、Enterprise、Pro、Sideloading の各エディションに適用されます。
+  これは次のエディションに適用されます。Enterprise、Pro、Sideloading
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [ライフサイクルに関する FAQ - Windows 製品](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 FAQ](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>エディション \n* 大規模企業\n* Pro\n* サイドロード"
+content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルに関する FAQ - Windows 製品](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 に関する FAQ](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Pro\n* Sideloading"

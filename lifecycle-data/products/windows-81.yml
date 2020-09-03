@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8.1
-  description: Windows 8.1 は固定ライフサイクル ポリシーに従います。
+  description: Windows 8.1 は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906662"
 name: Windows 8.1
 summary: >+
-  Windows 8.1 は固定ライフサ [イクル](/lifecycle/policies/fixed) ポリシーに従います。
+  Windows 8.1 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: Enterprise、Enterprise N、N、Pro with Media Center、Professional、Professional N、SL
+  これは次のエディションに適用されます。Enterprise、Enterprise N、N、Pro with Media Center、Professional、Professional N、SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>エディション \n* 大規模企業\n* エンタープライズ N\n* N\n* Pro とメディア センター\n* プロフェッショナル\n* Professional N\n* SL"
+content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Enterprise N\n* ×\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"

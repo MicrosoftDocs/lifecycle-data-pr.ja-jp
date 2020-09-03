@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft BizTalk Server 2004
-  description: Microsoft BizTalk Server 2004 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft BizTalk Server 2004 は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/12/2020
   ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893578"
 name: Microsoft BizTalk Server 2004
 summary: >+
-  Microsoft BizTalk Server 2004 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft BizTalk Server 2004 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。開発者、エンタープライズ、パートナー、標準
+  これは次のエディションに適用されます。Developer、Enterprise、Partner、Standard
 
 products:
 - microsoft-servers
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* Developer\n* 大規模企業\n* パートナー\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* Developer\n* Enterprise\n* パートナー\n* Standard"
