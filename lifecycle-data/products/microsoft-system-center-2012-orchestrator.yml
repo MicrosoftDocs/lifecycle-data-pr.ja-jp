@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center 2012 Orchestrator
-  description: Microsoft System Center 2012 Orchestrator は、固定ライフサイクルポリシーに従います。
+  description: Microsoft System Center 2012 Orchestrator は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: d2e8d6efc8fa088c9eb3db033e371374b8e78d40
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857451"
 name: Microsoft System Center 2012 Orchestrator
 summary: >+
-  Microsoft System Center 2012 Orchestrator は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft System Center 2012 Orchestrator は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n* [System Center のドキュメント](/system-center/#pivot=components&panel=components-all)\n* [System Center のリソース](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n* [System Center ドキュメント](/system-center/#pivot=components&panel=components-all)\n* [System Center リソース](https://www.microsoft.com/system-center/resources)"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2012
-  description: Dynamics C5 2012 は、固定ライフサイクルポリシーに従います。
+  description: Dynamics C5 2012 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857508"
 name: Dynamics C5 2012
 summary: >+
-  Dynamics C5 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Dynamics C5 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。標準
+  これは次のエディションに適用されます。Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>バージョン \n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>エディション \n* Standard"

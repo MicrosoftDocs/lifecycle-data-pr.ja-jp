@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Designer 2013
-  description: SharePoint Designer 2013 は、固定ライフサイクルポリシーに従います。
+  description: SharePoint Designer 2013 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857543"
 name: SharePoint Designer 2013
 summary: >+
-  SharePoint Designer 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  SharePoint Designer 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。 Designer
+  これは次のエディションに適用されます。Designer
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>リンク \n* [サポートの詳細](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> SharePoint Server 2016 との互換性を確保するために、Microsoft SharePoint Designer 2013 のサポートが拡張されています。\n\n## <a name=\"editions\"></a>バージョン \n* Designer"
+content: "\n## <a name=\"links\"></a>リンク \n* [サポートの詳細](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Microsoft SharePoint Designer 2013 のサポートは、SharePoint Server 2016 との互換性を確保するために、ここで示すように延長されています。\n\n## <a name=\"editions\"></a>エディション \n* Designer"

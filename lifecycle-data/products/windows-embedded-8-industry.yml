@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8 業界
-  description: Windows Embedded 8 業界は、固定ライフサイクルポリシーに従います。
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857268"
-name: Windows Embedded 8 業界
+name: Windows Embedded 8 Industry
 summary: >
-  Windows Embedded 8 業界は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows Embedded 8 Industry は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。 Enterprise、Pro
+  これは次のエディションに適用されます。Enterprise、Pro
 
 
   > [!IMPORTANT]
 
-  > お客様は、サポートを継続するために Windows 8.1 に移行する必要があります。
+  > お客様は、サポートを維持するために Windows 8.1 に移行する必要があります。
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>リンク \n* [ガイダンスを移行する](https://www.microsoft.com/download/details.aspx?id=40279)\n* [ライフサイクルの FAQ-Windows 製品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>バージョン \n* 大規模企業\n* 仮"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://www.microsoft.com/download/details.aspx?id=40279)\n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Pro"

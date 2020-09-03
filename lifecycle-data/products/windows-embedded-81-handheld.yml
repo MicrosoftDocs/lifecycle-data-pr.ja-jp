@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8.1 ハンドヘルド
-  description: Windows Embedded 8.1 ハンドヘルドは、固定ライフサイクルポリシーに従います。
+  title: Windows Embedded 8.1 Handheld
+  description: Windows Embedded 8.1 Handheld は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857708"
-name: Windows Embedded 8.1 ハンドヘルド
+name: Windows Embedded 8.1 Handheld
 summary: >
-  Windows Embedded 8.1 ハンドヘルドは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows Embedded 8.1 Handheld は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > この製品のサポートは終了しました。 組織がこれらのプラットフォームを引き続き管理しており、さらに質問がある場合は、アカウントチームにお問い合わせください。
+  > この製品のサポートは終了しました。 組織がこれらのプラットフォームをまだ維持していて、さらに質問がある場合は、アカウント チームにお問い合わせください。
 products:
 - windows
 policyType: fixed-mainstream-only
