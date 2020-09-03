@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Operations Manager 2007 用の Engyro 製品コネクタ
-  description: Microsoft System Center Operations Manager 2007 の Engyro 製品コネクタは、固定ライフサイクルポリシーに従います。
+  title: Engyro Product Connectors for Microsoft System Center Operations Manager 2007
+  description: Engyro Product Connectors for Microsoft System Center Operations Manager 2007 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826360"
-name: Microsoft System Center Operations Manager 2007 用の Engyro 製品コネクタ
+name: Engyro Product Connectors for Microsoft System Center Operations Manager 2007
 summary: >
-  Microsoft System Center Operations Manager 2007 の Engyro 製品コネクタは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Engyro Product Connectors for Microsoft System Center Operations Manager 2007 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 

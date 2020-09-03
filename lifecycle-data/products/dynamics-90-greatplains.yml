@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 9.0 GreatPlains
-  description: Dynamics 9.0 GreatPlains は、固定ライフサイクルポリシーに従います。
+  description: Dynamics 9.0 GreatPlains は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825437"
 name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Dynamics 9.0 GreatPlains は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 

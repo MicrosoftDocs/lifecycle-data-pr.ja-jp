@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Antigen
-  description: Microsoft Antigen は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Antigen は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826066"
 name: Microsoft Antigen
 summary: >+
-  Microsoft Antigen は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Antigen は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: 9.0 Exchange、Enterprise Manager 9.0、SMTP ゲートウェイ、スパムマネージャー
+  これは次のエディションに適用されます。9.0 for Exchange、Enterprise Manager 9.0、for SMTP Gateways、スパム マネージャー
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/17/2006
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront ブランドの下のセキュリティ製品のロードマップが変更されました。この製品は、2015年12月31日に廃止されます。\n\n## <a name=\"editions\"></a>バージョン \n* Exchange の9.0\n* Enterprise Manager 9.0\n* SMTP ゲートウェイの場合\n* スパムマネージャー"
+content: "\n\n> [!NOTE]\n> Forefront ブランドの下、セキュリティ製品のロードマップが変更されました。 この製品は 2015 年 12 月 31 日をもって終了となります。\n\n## <a name=\"editions\"></a>エディション \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* for SMTP Gateways\n* スパム マネージャー\n\n"

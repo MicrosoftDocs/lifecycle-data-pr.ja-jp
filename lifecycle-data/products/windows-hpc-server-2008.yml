@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows HPC Server 2008
-  description: Windows HPC Server 2008 は、固定ライフサイクルポリシーに従います。
+  description: Windows HPC Server 2008 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825851"
 name: Windows HPC Server 2008
 summary: >
-  Windows HPC Server 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows HPC Server 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、Hyper-v を使用せずに、次のエディションに適用されます。
+  これは次のエディションに適用されます。Standard、without Hyper-V
 
 
   > [!IMPORTANT]
 
-  > サポートが終了しました。 下記の「移行ガイダンス」を参照してください。
+  > サポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>バージョン \n* Standard\n* Hyper-v なし"
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>エディション \n* Standard\n* without Hyper-V"

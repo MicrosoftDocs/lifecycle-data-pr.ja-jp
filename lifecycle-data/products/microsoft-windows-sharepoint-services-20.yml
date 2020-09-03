@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows SharePoint Services 2.0
-  description: Microsoft Windows SharePoint Services 2.0 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Windows SharePoint Services 2.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 3293736b7dd1f77d735150f0c004daf5840d0be0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825911"
 name: Microsoft Windows SharePoint Services 2.0
-summary: "Microsoft Windows SharePoint Services 2.0 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。\n\n\n> [!IMPORTANT]\n> サポートが終了しました。 \n"
+summary: "Microsoft Windows SharePoint Services 2.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。\n\n\n> [!IMPORTANT]\n> サポートは終了しました。 \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/03/2003
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>リンク \n* [Windows SharePoint Services 2.0 開発者向けドキュメント](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [Windows SharePoint Services 2.0 製品ドキュメント](/previous-versions/tn-archive/cc288501(v=office.12))"
+content: "\n## <a name=\"links\"></a>リンク \n* [Windows SharePoint Services 2.0 開発者ドキュメント](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [Windows SharePoint Services 2.0 製品ドキュメント](/previous-versions/tn-archive/cc288501(v=office.12))"
