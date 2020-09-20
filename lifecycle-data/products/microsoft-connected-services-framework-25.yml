@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Connected Services Framework 2.5
-  description: Microsoft Connected Services Framework 2.5 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Connected Services Framework 2.5 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
   ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934123"
 name: Microsoft Connected Services Framework 2.5
 summary: >+
-  Microsoft Connected Services Framework 2.5 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft Connected Services Framework 2.5 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: 注文処理標準ビジネスイベント2.5、サーバー、サービスプロバイダー
+  これは次のエディションに適用されます。Order Handling Standard Business Event 2.5、Server、Service Provider
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>エディション \n* 注文処理標準ビジネスイベント2.5\n* サーバー\n* サービスプロバイダー"
+content: "\n\n\n## <a name=\"editions\"></a>エディション \n* Order Handling Standard Business Event 2.5\n* サーバー\n* Service Provider"

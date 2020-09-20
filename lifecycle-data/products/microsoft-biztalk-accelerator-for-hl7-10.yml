@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'HL7 1.0 の Microsoft BizTalk Accelerator '
-  description: HL7 1.0 の Microsoft BizTalk Accelerator は、固定ライフサイクルポリシーに従います。
+  title: 'Microsoft BizTalk Accelerator for HL7 1.0 '
+  description: Microsoft BizTalk Accelerator for HL7 1.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935159"
-name: 'HL7 1.0 の Microsoft BizTalk Accelerator '
+name: 'Microsoft BizTalk Accelerator for HL7 1.0 '
 summary: >+
-  HL7 1.0 の Microsoft BizTalk Accelerator は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft BizTalk Accelerator for HL7 1.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Standard

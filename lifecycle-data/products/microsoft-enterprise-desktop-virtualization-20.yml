@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Enterprise Desktop Virtualization 2.0
-  description: Microsoft Enterprise Desktop Virtualization 2.0 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Enterprise Desktop Virtualization 2.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933901"
 name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  Microsoft Enterprise Desktop Virtualization 2.0 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft Enterprise Desktop Virtualization 2.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Enterprise
