@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Report Viewer 2010 再頒布可能パッケージ
-  description: Microsoft Report Viewer 2010 再頒布可能パッケージは、固定ライフサイクルポリシーに従います。
+  title: Microsoft Report Viewer 2010 再頒布可能
+  description: Microsoft Report Viewer 2010 再頒布可能は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825387"
-name: Microsoft Report Viewer 2010 再頒布可能パッケージ
+name: Microsoft Report Viewer 2010 再頒布可能
 summary: >+
-  Microsoft Report Viewer 2010 再頒布可能パッケージは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Report Viewer 2010 再頒布可能は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:

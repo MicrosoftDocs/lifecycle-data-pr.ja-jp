@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ホストシステムの Microsoft BizTalk アダプター
-  description: ホストシステムの Microsoft BizTalk アダプターは、固定ライフサイクルポリシーに従います。
+  title: Microsoft BizTalk Adapters for Host Systems
+  description: Microsoft BizTalk Adapters for Host Systems は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826040"
-name: ホストシステムの Microsoft BizTalk アダプター
+name: Microsoft BizTalk Adapters for Host Systems
 summary: >+
-  ホストシステムの Microsoft BizTalk アダプターは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft BizTalk Adapters for Host Systems は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
