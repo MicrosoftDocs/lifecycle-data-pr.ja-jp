@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Machine Learning サーバー (Microsoft® Server)
-  description: Microsoft Machine Learning サーバー (Microsoft R Server) は、モダンライフサイクルポリシーに従います。
+  title: Microsoft Machine Learning Server (Microsoft R Server)
+  description: Microsoft Machine Learning Server (Microsoft R Server) は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857354"
-name: Microsoft Machine Learning サーバー (Microsoft® Server)
+name: Microsoft Machine Learning Server (Microsoft R Server)
 summary: >+
-  Microsoft Machine Learning サーバー (Microsoft R Server) は、[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Microsoft Machine Learning Server (Microsoft R Server) は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:

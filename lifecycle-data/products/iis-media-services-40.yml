@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: IIS Media サービス4.0
-  description: IIS メディアサービス4.0 は、コンポーネントライフサイクルポリシーに従います。
+  title: IIS Media Services 4.0
+  description: IIS Media Services 4.0 は、コンポーネント ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 52297271a9bb92f999b37f70833442af5458ac62
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857396"
-name: IIS Media サービス4.0
+name: IIS Media Services 4.0
 summary: >+
-  IIS メディアサービス4.0 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)ライフサイクルポリシーに従います。
+  IIS Media Services 4.0 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ライフサイクル ポリシーに従います。
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/30/2011
-content: "\n\n> [!NOTE]\n> このリリースは、親である主要製品のサポートライフサイクルに従うコンポーネントとして知られています。 Windows Server 2008"
+content: "\n\n> [!NOTE]\n> このリリースは、親の主要製品である Windows Server 2008 のサポート ライフサイクルに従うコンポーネントとして知られています"

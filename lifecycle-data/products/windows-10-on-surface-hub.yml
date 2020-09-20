@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Surface Hub の Windows 10
-  description: Surface Hub 上の Windows 10 は、固定ライフサイクルポリシーに従います。
+  description: Surface Hub での Windows 10 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857274"
 name: Surface Hub の Windows 10
 summary: >+
-  Surface Hub 上の Windows 10 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Surface Hub での Windows 10 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>リンク \n* [Windows 更新プログラム (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Surface Hub の最新の更新プログラムを入手していることを確認するには、[Windows update (Surface Hub)] ページを参照してください。"
+content: "\n## <a name=\"links\"></a>リンク \n* [Windows 更新プログラム (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Surface Hub の最新の更新プログラムを確実に入手するには、「Windows 更新プログラム (Surface Hub)」ページを参照してください。"

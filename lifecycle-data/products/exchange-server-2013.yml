@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2013
-  description: Exchange Server 2013 は、固定ライフサイクルポリシーに従います。
+  description: Exchange Server 2013 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931311"
 name: Exchange Server 2013
 summary: >+
-  Exchange Server 2013 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Exchange Server 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Enterprise、Standard
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスのガイドライン](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [サービス ガイドライン](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Standard"

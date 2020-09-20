@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: クラウドプラットフォームシステム
-  description: クラウドプラットフォームシステムは、固定ライフサイクルポリシーに従います。
+  title: Cloud Platform System
+  description: Cloud Platform System は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932051"
-name: クラウドプラットフォームシステム
+name: Cloud Platform System
 summary: >+
-  クラウドプラットフォームシステムは、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Cloud Platform System は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> すべてのお客様に標準的なライフサイクル移行タイムラインを提供するために、クラウドプラットフォームシステムのサポートが拡張されています。\n> [!NOTE]\n> 2017年9月18日に開始されたクラウドプラットフォームシステム標準。\n\n## <a name=\"editions\"></a>エディション \n* Standard"
+content: "\n\n> [!NOTE]\n> Cloud Platform System のサポートは、標準のライフサイクル移行タイムラインをすべてのお客様に提供するために、ここで示すように拡張されています。\n> [!NOTE]\n> Cloud Platform System Standard は 2017 年 9 月 18 日に発売されました。\n\n## <a name=\"editions\"></a>エディション \n* Standard"
