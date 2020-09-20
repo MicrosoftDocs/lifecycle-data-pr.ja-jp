@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Power BI Workspace コレクション
-  description: Azure Power BI Workspace コレクションはモダンライフサイクルポリシーに従います。
+  title: Azure Power BI Workspace Collection
+  description: Azure Power BI Workspace Collection は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857240"
-name: Azure Power BI Workspace コレクション
+name: Azure Power BI Workspace Collection
 summary: >
-  Azure Power BI Workspace コレクションは[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Azure Power BI Workspace Collection は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > サポートが終了しました。 下記の「移行ガイダンス」を参照してください。
+  > サポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - sql-server
 policyType: modern-online

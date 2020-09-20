@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 式2
-  description: 式2は、固定ライフサイクルポリシーに従います。
+  title: Expression 2
+  description: Expression 2 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930830"
-name: 式2
-summary: "式2は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。\n\nこれは、次のエディションに適用されます: Blend、Design、エンコーダー、Studio、Web\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
+name: Expression 2
+summary: "Expression 2 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。\n\nこれは次のエディションに適用されます。Blend、Design、Encoder、Studio、Web\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>エディション \n* Blend\n* デザイン\n* エンコーダー\n* Studio\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>エディション \n* Blend\n* Design\n* Encoder\n* Studio\n* Web"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 R2 アプリコントローラー
-  description: Microsoft System Center 2012 R2 アプリコントローラーは、固定ライフサイクルポリシーに従います。
+  title: Microsoft System Center 2012 R2 App Controller
+  description: Microsoft System Center 2012 R2 App Controller は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: df618e70dc7d07bc88c666674936f9e7b255a65b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857448"
-name: Microsoft System Center 2012 R2 アプリコントローラー
+name: Microsoft System Center 2012 R2 App Controller
 summary: >+
-  Microsoft System Center 2012 R2 アプリコントローラーは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft System Center 2012 R2 App Controller は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>リンク \n* [System Center のドキュメント](/system-center/#pivot=components&panel=components-all)\n* [System Center のリソース](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>リンク \n* [System Center ドキュメント](/system-center/#pivot=components&panel=components-all)\n* [System Center リソース](https://www.microsoft.com/system-center/resources)"

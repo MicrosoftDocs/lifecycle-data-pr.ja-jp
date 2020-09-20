@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 式3
-  description: 式3は、固定ライフサイクルポリシーに従います。
+  title: Expression 3
+  description: Expression 3 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930756"
-name: 式3
+name: Expression 3
 summary: >+
-  式3は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Expression 3 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: Design、Encoder、Studio、Web
+  これは次のエディションに適用されます。Design、Encoder、Studio、Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> 式デザイン3の開始日は、2009年11月19日です。 \n\n## <a name=\"editions\"></a>エディション \n* デザイン\n* エンコーダー\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> Expression Design 3 の開始日は 2009 年 11 月 19 日です。 \n\n## <a name=\"editions\"></a>エディション \n* Design\n* Encoder\n* Studio\n* Web"
