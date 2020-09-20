@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft カスタマーケアフレームワーク2008
-  description: Microsoft カスタマーケアフレームワーク2008は、固定ライフサイクルポリシーに従います。
+  title: Microsoft Customer Care Framework 2008
+  description: Microsoft Customer Care Framework 2008 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 20ffab8fa02950c2890b8b1f62a15142eb2ddd85
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825998"
-name: Microsoft カスタマーケアフレームワーク2008
+name: Microsoft Customer Care Framework 2008
 summary: >
-  Microsoft カスタマーケアフレームワーク2008は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Customer Care Framework 2008 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > サポートが終了しました。 下記の「移行ガイダンス」を参照してください。
+  > サポートは終了しました。 以下の移行ガイダンスを参照してください。
 products:
 - customer-care-framework
 policyType: fixed

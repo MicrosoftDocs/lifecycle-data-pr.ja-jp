@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Compute クラスターパック
-  description: Microsoft Compute Cluster Pack は、固定ライフサイクルポリシーに従います。
+  title: Microsoft Compute Cluster Pack
+  description: Microsoft Compute Cluster Pack は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826011"
-name: Microsoft Compute クラスターパック
+name: Microsoft Compute Cluster Pack
 summary: >
-  Microsoft Compute Cluster Pack は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Compute Cluster Pack は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/06/2006
   endDate: 04/08/2008
-content: "\n## <a name=\"links\"></a>リンク \n* [サービスパックポリシー](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>リンク \n* [Service Pack ポリシー](/lifecycle/policies/fixed#service-packs)"

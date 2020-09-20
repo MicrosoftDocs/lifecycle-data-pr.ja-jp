@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SharePoint Online の Visio Services
-  description: SharePoint Online の Visio Services は、モダンライフサイクルポリシーに従います。
+  title: SharePoint Online の Visio サービス
+  description: SharePoint Online の Visio サービスは、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825510"
-name: SharePoint Online の Visio Services
+name: SharePoint Online の Visio サービス
 summary: >+
-  SharePoint Online の Visio Services は、[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  SharePoint Online の Visio サービスは、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:
