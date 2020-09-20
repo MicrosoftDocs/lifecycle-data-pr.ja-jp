@@ -1,27 +1,27 @@
 ---
 title: ライフサイクルデータのエクスポート
 description: 製品ライフサイクル情報をエクスポートする
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008470"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025035"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="24b86-103">ライフサイクルデータのエクスポート</span><span class="sxs-lookup"><span data-stu-id="24b86-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="48d17-103">ライフサイクルデータのエクスポート</span><span class="sxs-lookup"><span data-stu-id="48d17-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="24b86-104">このページは開発中です。</span><span class="sxs-lookup"><span data-stu-id="24b86-104">This page is under development.</span></span>
+> <span data-ttu-id="48d17-104">このページは開発中です。</span><span class="sxs-lookup"><span data-stu-id="48d17-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="24b86-105">すべての製品をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="24b86-105">Export all products</span></span>
-<span data-ttu-id="24b86-106">以下をクリックして、すべての製品のライフサイクルデータをエクスポートします。</span><span class="sxs-lookup"><span data-stu-id="24b86-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="48d17-105">すべての製品をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="48d17-105">Export all products</span></span>
+<span data-ttu-id="48d17-106">以下をクリックして、すべての製品のライフサイクルデータをエクスポートします。</span><span class="sxs-lookup"><span data-stu-id="48d17-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="24b86-107">すべての製品をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="24b86-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="48d17-107">すべての製品をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="48d17-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="24b86-108">ファミリーとグループで製品をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="24b86-108">Export products by Family and Group</span></span>
-<span data-ttu-id="24b86-109">ファミリーを選択し、エクスポートするグループを選択します。</span><span class="sxs-lookup"><span data-stu-id="24b86-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="24b86-110">注: Group 値が選択されている場合は、エクスポートが開始されます。</span><span class="sxs-lookup"><span data-stu-id="24b86-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="48d17-108">ファミリーとグループで製品をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="48d17-108">Export products by Family and Group</span></span>
+<span data-ttu-id="48d17-109">ファミリーを選択し、エクスポートするグループを選択します。</span><span class="sxs-lookup"><span data-stu-id="48d17-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="48d17-110">注: Group 値が選択されている場合は、エクスポートが開始されます。</span><span class="sxs-lookup"><span data-stu-id="48d17-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="製品" title2="Group"]
 > - [(.NET |いずれ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -83,8 +83,8 @@ ms.locfileid: "1008470"
 > - [(Windows |Security](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows |Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="24b86-171">サポート終了日で製品をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="24b86-171">Export products by end of support date</span></span>
-<span data-ttu-id="24b86-172">製品のサポート終了を確認する年を選択します。</span><span class="sxs-lookup"><span data-stu-id="24b86-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="24b86-173">注: 年の値を選択すると、エクスポートが開始されます。</span><span class="sxs-lookup"><span data-stu-id="24b86-173">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="48d17-171">サポート終了日で製品をエクスポートする</span><span class="sxs-lookup"><span data-stu-id="48d17-171">Export products by end of support date</span></span>
+<span data-ttu-id="48d17-172">製品のサポート終了を確認する年を選択します。</span><span class="sxs-lookup"><span data-stu-id="48d17-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="48d17-173">注: 年の値を選択すると、エクスポートが開始されます。</span><span class="sxs-lookup"><span data-stu-id="48d17-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

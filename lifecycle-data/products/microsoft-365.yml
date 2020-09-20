@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Microsoft 365 は、モダンライフサイクルポリシーに従います。
+  description: Microsoft 365 は、モダン ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
   ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935973"
 name: Microsoft 365
 summary: >+
-  Microsoft 365 は、 [モダン](/lifecycle/policies/modern) ライフサイクルポリシーに従います。
+  Microsoft 365 は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: Business、教育、企業、行政機関
+  これは次のエディションに適用されます。Business、Education、Enterprise、Government
 
 products:
 - office
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>リンク \n* [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)\n* [システム要件](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>エディション \n* Business\n* Education\n* Enterprise\n* 政府機関"
+content: "\n## <a name=\"links\"></a>リンク \n* [Microsoft 365 ロードマップ](https://www.microsoft.com/microsoft-365/roadmap)\n* [システム要件](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>エディション \n* Business\n* Education\n* Enterprise\n* Government"

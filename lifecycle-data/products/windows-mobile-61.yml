@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Mobile 6.1
-  description: Windows Mobile 6.1 は、固定ライフサイクルポリシーに従います。
+  description: Windows Mobile 6.1 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Adaptation Kit,Professional,Standard
   ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939821"
 name: Windows Mobile 6.1
 summary: >
-  Windows Mobile 6.1 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Windows Mobile 6.1 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: アダプテーションキット、プロフェッショナル、標準
+  これは次のエディションに適用されます。Adaptation Kit、Professional、Standard
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>エディション \n* アダプテーションキット\n* Professional\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>エディション \n* Adaptation Kit\n* Professional\n* Standard"
