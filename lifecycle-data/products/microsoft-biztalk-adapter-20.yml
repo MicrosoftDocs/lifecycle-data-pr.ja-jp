@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk アダプター2.0
-  description: Microsoft BizTalk Adapter 2.0 は、固定ライフサイクルポリシーに従います。
+  title: Microsoft BizTalk Adapter 2.0
+  description: Microsoft BizTalk Adapter 2.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: for MSMQ,for mySAP Business Suite,for SAP
   ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934752"
-name: Microsoft BizTalk アダプター2.0
+name: Microsoft BizTalk Adapter 2.0
 summary: >+
-  Microsoft BizTalk Adapter 2.0 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft BizTalk Adapter 2.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。 MSMQ、mySAP Business Suite、SAP
+  これは次のエディションに適用されます。for MSMQ、for mySAP Business Suite、for SAP
 
 products:
 - microsoft-servers
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/20/2004
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> SAP の Microsoft BizTalk アダプター2.0 の開始日は、2004年11月2日です。 MSMQ 2.0 用の Microsoft BizTalk アダプターの開始日は、2004年12月10日です。\n\n## <a name=\"editions\"></a>エディション \n* MSMQ の場合\n* mySAP Business Suite の場合\n* SAP の場合"
+content: "\n\n> [!NOTE]\n> Microsoft BizTalk Adapter 2.0 for SAP の開始日は 2004 年 11 月 2 日です。 Microsoft BizTalk Adapter for MSMQ 2.0 の開始日は 2004 年 12 月 10 日です\n\n## <a name=\"editions\"></a>エディション \n* for MSMQ\n* for mySAP Business Suite\n* for SAP"

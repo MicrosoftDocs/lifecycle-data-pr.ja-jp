@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft インターネットセキュリティおよびアクセラレータサーバー2004
-  description: Microsoft インターネットセキュリティおよびアクセラレーションサーバー2004は、固定ライフサイクルポリシーに従います。
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: Microsoft Internet Security and Acceleration Server 2004 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933494"
-name: Microsoft インターネットセキュリティおよびアクセラレータサーバー2004
-summary: "Microsoft インターネットセキュリティおよびアクセラレーションサーバー2004は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。\n\nこれは次のエディションに適用されます。Enterprise、Standard\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "Microsoft Internet Security and Acceleration Server 2004 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。\n\nこれは次のエディションに適用されます。Enterprise、Standard\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
 products:
 - microsoft-servers
 policyType: fixed

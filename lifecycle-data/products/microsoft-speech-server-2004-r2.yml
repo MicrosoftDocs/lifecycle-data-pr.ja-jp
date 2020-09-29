@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Speech Server 2004 R2
-  description: Microsoft Speech Server 2004 R2 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Speech Server 2004 R2 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937046"
 name: Microsoft Speech Server 2004 R2
 summary: >+
-  Microsoft Speech Server 2004 R2 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft Speech Server 2004 R2 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Enterprise、Standard

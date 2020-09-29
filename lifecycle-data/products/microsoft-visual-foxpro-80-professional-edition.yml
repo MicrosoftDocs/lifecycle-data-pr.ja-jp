@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual FoxPro 8.0 Professional Edition
-  description: Microsoft Visual FoxPro 8.0 Professional Edition は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Visual FoxPro 8.0 Professional Edition は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Professional
   ms.openlocfilehash: f1a877392c50fc6e526869f7269b728b9dd727cd
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "929053"
 name: Microsoft Visual FoxPro 8.0 Professional Edition
 summary: >+
-  Microsoft Visual FoxPro 8.0 Professional Edition は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft Visual FoxPro 8.0 Professional Edition は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます。 Professional
+  これは次のエディションに適用されます。Professional
 
 products:
 - vs

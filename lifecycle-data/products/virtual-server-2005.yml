@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 仮想サーバー2005
-  description: 仮想サーバー2005は、固定ライフサイクルポリシーに従います。
+  title: Virtual Server 2005
+  description: Virtual Server 2005 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937897"
-name: 仮想サーバー2005
+name: Virtual Server 2005
 summary: >+
-  仮想サーバー2005は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Virtual Server 2005 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: Enterprise、Management Pack、Standard
+  これは次のエディションに適用されます。Enterprise、Management Pack、Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* 管理パック\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>エディション \n* Enterprise\n* Management Pack\n* Standard"

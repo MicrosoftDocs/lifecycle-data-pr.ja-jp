@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft PowerPoint 2010
-  description: Microsoft PowerPoint 2010 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft PowerPoint 2010 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Home and Student,Standard
   ms.openlocfilehash: 456aacd4e7c600f852b3a7fb169afc68163bf95c
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930053"
 name: Microsoft PowerPoint 2010
 summary: >+
-  Microsoft PowerPoint 2010 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft PowerPoint 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Home and Student、Standard

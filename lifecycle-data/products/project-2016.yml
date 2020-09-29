@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2016
-  description: プロジェクト2016は、固定ライフサイクルポリシーに従います。
+  description: Project 2016 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926538"
 name: Project 2016
 summary: >+
-  プロジェクト2016は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Project 2016 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Professional、Standard

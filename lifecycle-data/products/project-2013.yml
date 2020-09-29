@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project 2013
-  description: プロジェクト2013は、固定ライフサイクルポリシーに従います。
+  description: Project 2013 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: a0c7b1031c25aa1c64ea6ba3c0176ec83e4071b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926464"
 name: Project 2013
 summary: >+
-  プロジェクト2013は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Project 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Professional、Standard
