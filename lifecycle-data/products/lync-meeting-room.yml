@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lync 会議室
-  description: Lync 会議室は、固定ライフサイクルポリシーに従います。
+  title: Lync Meeting Room
+  description: Lync Meeting Room は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857392"
-name: Lync 会議室
-summary: "Lync 会議室は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。\n\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 「移行ガイダンス」を参照してください。 \n"
+name: Lync Meeting Room
+summary: "Lync Meeting Room は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。\n\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 移行ガイダンスを参照してください。 \n"
 products:
 - office
 policyType: fixed-mainstream-only

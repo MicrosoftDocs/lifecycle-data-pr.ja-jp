@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Online デスクトップ クライアント
-  description: Project Online デスクトップクライアントは、モダンライフサイクルポリシーに従います。
+  description: Project Online デスクトップ クライアントは、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857330"
 name: Project Online デスクトップ クライアント
 summary: >+
-  Project Online デスクトップクライアントは、[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Project Online デスクトップ クライアントは、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:
