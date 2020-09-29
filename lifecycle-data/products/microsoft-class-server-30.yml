@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft クラスサーバー3.0
-  description: Microsoft Class Server 3.0 は、固定ライフサイクルポリシーに従います。
+  title: Microsoft Class Server 3.0
+  description: Microsoft Class Server 3.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934641"
-name: Microsoft クラスサーバー3.0
+name: Microsoft Class Server 3.0
 summary: >+
-  Microsoft Class Server 3.0 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft Class Server 3.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Standard

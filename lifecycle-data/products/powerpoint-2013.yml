@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2013
-  description: PowerPoint 2013 は、固定ライフサイクルポリシーに従います。
+  description: PowerPoint 2013 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 04ce16dd515217f7697f3cf2cc1a0ad22cd3ea19
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926945"
 name: PowerPoint 2013
 summary: >+
-  PowerPoint 2013 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  PowerPoint 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Standard

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PolicyMaker
-  description: PolicyMaker は、固定ライフサイクルポリシーに従います。
+  description: PolicyMaker は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938045"
 name: PolicyMaker
 summary: >+
-  PolicyMaker は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  PolicyMaker は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます: アプリケーションセキュリティ、Outlook Edition、Professional 9.0、レジストリ拡張2.0、共有マネージャー1.0、ソフトウェア更新プログラム1.0、ソフトウェア更新プログラム2.0、標準1.0、標準2.0
+  これは次のエディションに適用されます。Application Security、Outlook Edition、Professional 9.0、Registry Extension 2.0、Share Manager 1.0、Software Update 1.0、Software Update 2.0、Standard 1.0、Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> この製品のサポートは、製品取得条件の対象となります。\n\n## <a name=\"editions\"></a>エディション \n* アプリケーション セキュリティ\n* Outlook Edition\n* Professional 9.0\n* レジストリ拡張2.0\n* 共有マネージャー1.0\n* ソフトウェア更新プログラム1.0\n* ソフトウェア更新プログラム2.0\n* 標準1.0\n* 標準2.0"
+content: "\n\n> [!NOTE]\n> この製品のサポートは、製品取得条件の対象となります。\n\n## <a name=\"editions\"></a>エディション \n* Application Security\n* Outlook Edition\n* Professional 9.0\n* Registry Extension 2.0\n* Share Manager 1.0\n* Software Update 1.0\n* Software Update 2.0\n* Standard 1.0\n* Standard 2.0"
