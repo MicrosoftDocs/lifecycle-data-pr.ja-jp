@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Media エンコーダー9シリーズ
-  description: Windows Media エンコーダー9シリーズは、固定ライフサイクルポリシーに従います。
+  title: Windows Media エンコーダ 9 シリーズ
+  description: Windows Media エンコーダ 9 シリーズは、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940006"
-name: Windows Media エンコーダー9シリーズ
+name: Windows Media エンコーダ 9 シリーズ
 summary: >+
-  Windows Media エンコーダー9シリーズは、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Windows Media エンコーダ 9 シリーズは、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは、次のエディションに適用されます:64 ビット、標準
+  これは次のエディションに適用されます。64 ビット、Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Windows Media エンコーダー9シリーズ x64 エディションは、2005年9月15日にリリースされました。\n\n## <a name=\"editions\"></a>エディション \n* 64 ビット\n* Standard"
+content: "\n\n> [!NOTE]\n> Windows Media エンコーダ 9 シリーズ x64 Edition は、2005 年 9 月 15 日にリリースされました。\n\n## <a name=\"editions\"></a>エディション \n* 64 ビット\n* Standard"

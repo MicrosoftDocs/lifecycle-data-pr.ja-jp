@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2013
-  description: SharePoint Foundation 2013 は、固定ライフサイクルポリシーに従います。
+  description: SharePoint Foundation 2013 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: f3241162e2d2a4953850015a7b1625b07adfbcbf
   ms.sourcegitcommit: 81b08c37762fa90d8258fe5a26c257089bcc981b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "941082"
 name: SharePoint Foundation 2013
 summary: >+
-  SharePoint Foundation 2013 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  SharePoint Foundation 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>リンク \n* [Microsoft SharePoint Foundation 2013 開発者向けドキュメント](/sharepoint/dev)\n* [Microsoft SharePoint Foundation 2013 製品ドキュメント](/sharepoint/sharepoint-server)"
+content: "\n## <a name=\"links\"></a>リンク \n* [Microsoft SharePoint Foundation 2013 開発者ドキュメント](/sharepoint/dev)\n* [Microsoft SharePoint Foundation 2013 製品ドキュメント](/sharepoint/sharepoint-server)"
