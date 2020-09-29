@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Works
-  description: Microsoft Works は固定ライフサイクル ポリシーに従います。
+  description: Microsoft Works は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904258"
 name: Microsoft Works
 summary: >+
-  Microsoft Works は固定ライフサ [イクル](/lifecycle/policies/fixed) ポリシーに従います。
+  Microsoft Works は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> この一覧には、2003 年から 2007 年までの Microsoft Works 製品がすべて含まれます。"
+content: "\n\n> [!NOTE]\n> この一覧には、2003 年から 2007 年の間にリリースされたすべての Microsoft Works 製品が含まれています。"

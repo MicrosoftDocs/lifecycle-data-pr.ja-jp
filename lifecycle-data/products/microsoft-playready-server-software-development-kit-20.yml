@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft PlayReady Server Software Development Kit 2.0
-  description: Microsoft PlayReady Server ソフトウェア開発キット 2.0 には固定ライフサイクル ポリシーが適用されます。
+  description: Microsoft PlayReady Server Software Development Kit 2.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/21/2020
   ms.openlocfilehash: 61635292b88f853a5daeda3ffcc766a1786e42cd
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908064"
 name: Microsoft PlayReady Server Software Development Kit 2.0
 summary: >+
-  Microsoft PlayReady Server Software Development Kit 2.0 には固定ライフサ [イクル](/lifecycle/policies/fixed) ポリシーが適用されます。
+  Microsoft PlayReady Server Software Development Kit 2.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:

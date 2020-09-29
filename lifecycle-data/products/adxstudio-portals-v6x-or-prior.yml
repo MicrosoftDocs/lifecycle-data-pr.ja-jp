@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio Portal v6 またはそれ以前
-  description: Adxstudio Portal v6 またはそれ以前の場合は、固定ライフサイクルポリシーに従います。
+  title: Adxstudio Portals v6.x 以前
+  description: Adxstudio Portals v6.x 以前は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924392"
-name: Adxstudio Portal v6 またはそれ以前
+name: Adxstudio Portals v6.x 以前
 summary: >+
-  Adxstudio Portal v6 またはそれ以前の場合は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Adxstudio Portals v6.x 以前は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルの FAQ-買収](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> この製品のサポートには、購入の条項が適用され、終了しました。"
+content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルに関する FAQ - 取得](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> この製品のサポートは、その取得条件に従って終了しました。"

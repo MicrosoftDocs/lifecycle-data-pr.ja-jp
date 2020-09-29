@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Power BI レポートサーバー
-  description: Power BI レポートサーバーは、モダンライフサイクルポリシーに従います。
+  title: Power BI Report Server
+  description: Power BI Report Server は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 595ca1b035c661c5f2822dd0ab71578a5995290f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870546"
-name: Power BI レポートサーバー
+name: Power BI Report Server
 summary: >+
-  Power BI レポートサーバーは、[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Power BI Report Server は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:

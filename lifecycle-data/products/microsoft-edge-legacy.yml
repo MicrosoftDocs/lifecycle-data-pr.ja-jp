@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Edge レガシー
-  description: Microsoft Edge レガシは、コンポーネントライフサイクルポリシーに従います。
+  title: Microsoft Edge レガシ
+  description: Microsoft Edge レガシは、コンポーネント ライフサイクル ポリシーに従います。
   ms.date: 08/24/2020
   ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908799"
-name: Microsoft Edge レガシー
+name: Microsoft Edge レガシ
 summary: >
-  Microsoft Edge レガシは、 [コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ライフサイクルポリシーに従います。
+  Microsoft Edge レガシは、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ライフサイクル ポリシーに従います。
 
 
 
   > [!IMPORTANT]
 
-  > この製品のサポートは、2021年3月9日に終了することにご注意ください。 詳細について [は、ここ](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) を参照してください。
+  > この製品のサポートは 2021 年 3 月 9 日に終了することに注意してください。 詳細については、[こちら](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)を参照してください。
 products:
 - microsoft-edge
 policyType: component
