@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Access 2013
-  description: Access 2013 は、固定ライフサイクルポリシーに従います。
+  description: Access 2013 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: e58d73b8c3d5757d5cddded295cc06f773df46d8
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940043"
 name: Access 2013
 summary: >+
-  Access 2013 は、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Access 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
   これは次のエディションに適用されます。Standard
