@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: MQSeries 2005 用の BizTalk アダプター
-  description: MQSeries 2005 用の BizTalk アダプターは、固定ライフサイクルポリシーに従います。
+  title: BizTalk Adapter for MQSeries 2005
+  description: BizTalk Adapter for MQSeries 2005 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826264"
-name: MQSeries 2005 用の BizTalk アダプター
+name: BizTalk Adapter for MQSeries 2005
 summary: >+
-  MQSeries 2005 用の BizTalk アダプターは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  BizTalk Adapter for MQSeries 2005 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:

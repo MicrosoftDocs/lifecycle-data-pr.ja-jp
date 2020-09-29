@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Helmsman 4.0
-  description: Microsoft Helmsman 4.0 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Helmsman 4.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: e873dcff7f9c115e7c0aa006d0a89b275f51c1a2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826357"
 name: Microsoft Helmsman 4.0
 summary: >+
-  Microsoft Helmsman 4.0 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Helmsman 4.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:

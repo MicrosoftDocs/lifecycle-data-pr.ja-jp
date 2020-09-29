@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions--ソロモン6.0
-  description: Microsoft ビジネスソリューション--ソロモン6.0 は、固定ライフサイクルポリシーに従います。
+  title: Microsoft Business Solutions--Solomon 6.0
+  description: Microsoft Business Solutions--Solomon 6.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 540bb6a54428f0ebae78d2599649a27a4504fea6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "826025"
-name: Microsoft Business Solutions--ソロモン6.0
+name: Microsoft Business Solutions--Solomon 6.0
 summary: >+
-  Microsoft ビジネスソリューション--ソロモン6.0 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft Business Solutions--Solomon 6.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
