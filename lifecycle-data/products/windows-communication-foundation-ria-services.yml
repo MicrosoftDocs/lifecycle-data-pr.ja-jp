@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Communication Foundation RIA サービス
-  description: Windows Communication Foundation RIA サービスは、固定ライフサイクルポリシーに従います。
+  description: Windows Communication Foundation RIA Services は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825340"
 name: Windows Communication Foundation RIA サービス
 summary: >+
-  Windows Communication Foundation RIA サービスは、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Windows Communication Foundation RIA Services は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:

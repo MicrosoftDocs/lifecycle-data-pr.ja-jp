@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office FrontPage 2003
-  description: Microsoft Office FrontPage 2003 は、固定ライフサイクルポリシーに従います。
+  description: Microsoft Office FrontPage 2003 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: eb7f001218c8b53cc1ebf75314ca5bd2b8b9a792
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "825630"
 name: Microsoft Office FrontPage 2003
-summary: "Microsoft Office FrontPage 2003 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。\n\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
+summary: "Microsoft Office FrontPage 2003 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。\n\n\n> [!IMPORTANT]\n> この製品のサポートは終了しました。 \n"
 products:
 - office
 policyType: fixed
