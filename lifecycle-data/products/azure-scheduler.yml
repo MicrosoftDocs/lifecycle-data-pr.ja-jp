@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure スケジューラ
-  description: Azure スケジューラは、モダンライフサイクルポリシーに従います。
+  description: Azure Scheduler は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857232"
 name: Azure スケジューラ
 summary: >+
-  Azure スケジューラは、[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Azure Scheduler は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:

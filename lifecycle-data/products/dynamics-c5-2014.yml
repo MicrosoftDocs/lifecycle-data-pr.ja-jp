@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics C5 2014
-  description: Dynamics C5 2014 は、固定ライフサイクルポリシーに従います。
+  description: Dynamics C5 2014 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: e4f0556a8fd84b688392121720ac06d2b6945eec
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857504"
 name: Dynamics C5 2014
 summary: >+
-  Dynamics C5 2014 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Dynamics C5 2014 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:

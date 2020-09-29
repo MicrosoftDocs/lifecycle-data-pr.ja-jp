@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype Room Systems v2
-  description: Skype Room Systems v2 はモダンライフサイクルポリシーに従います。
+  title: Skype ミーティング システム v2
+  description: Skype ミーティング システム v2 は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857625"
-name: Skype Room Systems v2
+name: Skype ミーティング システム v2
 summary: >+
-  Skype Room Systems v2 は[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  Skype ミーティング システム v2 は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:

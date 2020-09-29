@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ASP.NET コア
-  description: ASP.NET Core はモダンライフサイクルポリシーに従います。
+  title: ASP.NET Core
+  description: ASP.NET Core は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
   ms.openlocfilehash: 0d9d34cae13f320c21cbcb289e753c8a5f6a8462
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "857524"
-name: ASP.NET コア
+name: ASP.NET Core
 summary: >+
-  ASP.NET Core は[モダン](/lifecycle/policies/modern)ライフサイクルポリシーに従います。
+  ASP.NET Core は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルの FAQ-.NET コア](/lifecycle/faq/dotnet-core)\n* [サービス情報](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET ロードマップ](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルに関する FAQ - .NET Core](/lifecycle/faq/dotnet-core)\n* [サービス情報](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET ロードマップ](https://github.com/dotnet/core/blob/master/roadmap.md)"
