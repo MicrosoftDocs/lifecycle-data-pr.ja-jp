@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft XML Core サービス4.0
-  description: Microsoft XML Core サービス4.0 は、固定ライフサイクルポリシーに従います。
+  title: Microsoft XML Core Services 4.0
+  description: Microsoft XML Core Services 4.0 は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/12/2020
   ms.openlocfilehash: 311394fe73d17ea11fe92712511a42af1f509295
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893060"
-name: Microsoft XML Core サービス4.0
+name: Microsoft XML Core Services 4.0
 summary: >+
-  Microsoft XML Core サービス4.0 は、[固定](/lifecycle/policies/fixed)ライフサイクルポリシーに従います。
+  Microsoft XML Core Services 4.0 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Service Pack 3
   startDate: 12/28/2009
   endDate: 04/12/2014
-content: "\n\n> [!NOTE]\n> XML コアサービス4.0 のサポートが終了しました。 サポートは、Service Pack 3 でのみ利用可能でした。"
+content: "\n\n> [!NOTE]\n> XML Core Services 4.0 のサポートは終了しました。 サポートは、Service Pack 3 でのみ利用可能でした。"

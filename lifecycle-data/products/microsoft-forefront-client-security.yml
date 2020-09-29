@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Client Security
-  description: Microsoft Forefront クライアントのセキュリティは、固定ライフサイクルポリシーに従います。
+  description: Microsoft Forefront Client Security は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924261"
 name: Microsoft Forefront Client Security
 summary: >+
-  Microsoft Forefront クライアントのセキュリティは、 [固定](/lifecycle/policies/fixed) ライフサイクルポリシーに従います。
+  Microsoft Forefront Client Security は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>リンク \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront クライアントのセキュリティは、2015年7月14日の時点で廃止されました。 製品バージョンのサポート終了後に、マルウェア対策およびスパイウェア対策の定義の更新プログラムは利用できなくなります。 システムセンターエンドポイントの保護を代替として評価してください。"
+content: "\n## <a name=\"links\"></a>リンク \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security は、2015 年 7 月 14 日をもって廃止されました。 Antimalware および Antispyware の定義の更新プログラムは、製品バージョンのサポート終了後は利用できなくなります。 代わりとして System Center Endpoint Protection を評価してください。"
