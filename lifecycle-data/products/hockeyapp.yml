@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: HockeyApp
+  description: HockeyApp はモダンライフサイクルポリシーに従います。
+  ms.date: 09/29/2020
+  keywords: 
+  ms.openlocfilehash: 2aa133457f61c84ce238eb2bb4ce559f64ab4257
+  ms.sourcegitcommit: 7914229438c6935bc9dd98b1924a805d478e9e14
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 09/29/2020
+  ms.locfileid: "1048751"
+name: HockeyApp
+summary: >+
+  HockeyApp は [モダン](/lifecycle/policies/modern) ライフサイクルポリシーに従います。
+
+
+products:
+- vs
+policyType: modern-online
+supportDates:
+  start: 12/31/2015
+  end: 11/16/2019
+releases:
+- version: Original Release
+  startDate: 12/31/2015
+  endDate: 11/16/2019
+content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/appcenter/transition/)"
