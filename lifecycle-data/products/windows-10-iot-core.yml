@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core は、モダン ライフサイクル ポリシーに従います。
-  ms.date: 09/08/2020
-  keywords: ''
-  ms.openlocfilehash: 61de53b89d60be7cc06f265b571b5769f8053350
-  ms.sourcegitcommit: 6d5e18e0097383b5852f122a79a7dc045e1d0d8f
+  ms.date: 10/16/2020
+  keywords: 
+  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
+  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 09/08/2020
-  ms.locfileid: "983716"
+  ms.lasthandoff: 10/17/2020
+  ms.locfileid: "1158115"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > マイクロソフトは、2025 年 10 月 14 日まで、少なくとも 1 つの Windows 10 半期チャネルを引き続きサポートします。
+  > この製品は、2020 年 11 月 10 日に廃止されます。 サポートを継続するには、IoT Core Services に移行してください。
 products:
 - windows
 policyType: modern-on-prem
@@ -41,4 +41,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>リンク \n* [製品情報](/windows/iot-core/windows-iot-core)\n* [Windows ライフサイクルのファクト シート](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 今後の Windows 10 半期チャネルの機能更新プログラムは、延期されなければ、記載されているメインストリーム サポート期間の終了前にインストールされる場合があります。"
+content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows)\n* [Windows ライフサイクルのファクト シート](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)"
