@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2010 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは次のエディションに適用されます。Agents、All、ASP .NET MVC 4、Express、F# 2.0 Runtime、Lab Management、Performance Tools、Premium、Professional、Professional w/MSDN、PSM、Remote Debugger、SDK、Shell (Integrated)、Shell (Isolated)、Team Agents、Team Explorer、Test Professional、Tools for Office System 4.0 Runtime、Ultimate、Ultimate with MSDN、Visual Basic Express、Visual C# Express、Visual C++ Express、Visual Web Developer Express、Visualization & Modeling SDK
+  これは次のエディションに適用されます。Agents、すべて、ASP .NET MVC 4、Express、F# 2.0 Runtime、Lab Management、Performance Tools、Premium、Professional、Professional w/MSDN、PSM、Remote Debugger、SDK、Shell (Integrated)、Shell (Isolated)、Team Agents、Team Explorer、Test Professional、Tools for Office System 4.0 Runtime、Ultimate、Ultimate with MSDN、Visual Basic Express、Visual C# Express、Visual C++ Express、Visual Web Developer Express、Visualization & Modeling SDK
 
 products:
 - vs
