@@ -2,20 +2,20 @@
 metadata:
   title: Windows Embedded CE 8
   description: Windows Embedded 8 は、固定ライフサイクル ポリシーに従います。
-  ms.date: 09/10/2020
-  keywords: Pro,Standard
-  ms.openlocfilehash: 5da737e56a51de593764c142ccdb9a23878e9cac
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.date: 01/12/2021
+  keywords: 
+  ms.openlocfilehash: 3da619f1034077e82c4838db249eed2b63e4d8c6
+  ms.sourcegitcommit: 4887243a668c19ffd98b334e0486701f498f308f
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002061"
+  ms.lasthandoff: 01/12/2021
+  ms.locfileid: "1376857"
 name: Windows Embedded CE 8
 summary: >+
   Windows Embedded 8 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-  これは次のエディションに適用されます。Pro、Standard
+  これは次のエディションに適用されます。Pro
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>リンク \n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> お客様は、サポートを維持するために Windows Emdedded 8.1 に移行する必要があります。\n\n## <a name=\"editions\"></a>エディション \n* Pro\n* Standard"
+content: "\n## <a name=\"links\"></a>リンク \n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n* [ライフサイクルに関する FAQ - Windows 製品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> お客様は、サポートを維持するために Windows Emdedded 8.1 に移行する必要があります。\n\n## <a name=\"editions\"></a>エディション \n* Pro"
