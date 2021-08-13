@@ -3,23 +3,24 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 は、コンポーネント ライフサイクル ポリシーに従います。
   ms.date: 08/12/2020
-  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893615"
 name: Internet Explorer 9
-summary: >+
+summary: |+
   Internet Explorer 9 は、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ライフサイクル ポリシーに従います。
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 03/15/2011
 releases:
-- version: Original Release
-  startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer のライフサイクル ポリシーに関する FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016 年 1 月 12 日から、サポートされているオペレーティング システムで使用可能な最新バージョンの Internet Explorer のみがテクニカル サポートとセキュリティ更新プログラム配信の対象になります。"
+  - version: Original Release
+    startDate: 03/15/2011
+content: |+
+
+  ## <a name="links"></a>リンク 
+  * [移行ガイダンス](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Internet Explorer のライフサイクル ポリシーに関する FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > 2016 年 1 月 12 日から、サポートされているオペレーティング システムで使用可能な最新バージョンの Internet Explorer のみがテクニカル サポートとセキュリティ更新プログラム配信の対象になります。
