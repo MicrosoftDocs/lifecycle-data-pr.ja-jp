@@ -3,29 +3,21 @@ metadata:
   title: Microsoft Edge レガシ
   description: Microsoft Edge レガシは、コンポーネント ライフサイクル ポリシーに従います。
   ms.date: 08/24/2020
-  ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908799"
 name: Microsoft Edge レガシ
-summary: >
+summary: |
   Microsoft Edge レガシは、[コンポーネント](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) ライフサイクル ポリシーに従います。
 
 
-
   > [!IMPORTANT]
-
   > この製品のサポートは 2021 年 3 月 9 日に終了することに注意してください。 詳細については、[こちら](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)を参照してください。
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: component
 supportDates:
   start: 07/29/2015
   end: 03/09/2021
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 03/09/2021
-content: ''
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 03/09/2021
+content: |+

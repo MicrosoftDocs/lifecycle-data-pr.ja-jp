@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: Wunderlist は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857313"
 name: Wunderlist
-summary: "Wunderlist は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。\n\n\n> [!IMPORTANT]\n> この製品のサポートは、製品取得条件の対象となります。 この製品のサポートは終了しました。 以下の移行ガイダンスを参照してください。 \n"
+summary: |
+  Wunderlist は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
+
+
+  > [!IMPORTANT]
+  > この製品のサポートは、製品取得条件の対象となります。 この製品のサポートは終了しました。 以下の移行ガイダンスを参照してください。 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>リンク 
+  * [移行ガイダンス](https://www.wunderlist.com/blog/join-us-on-our-new-journey)
