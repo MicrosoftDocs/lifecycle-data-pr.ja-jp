@@ -3,31 +3,29 @@ metadata:
   title: Microsoft Edge
   description: Microsoft Edge は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/17/2021
-  keywords: 
-  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172046"
+  keywords: null
 name: Microsoft Edge
-summary: >+
+summary: |+
   Microsoft Edge は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 
 
-
   > [!IMPORTANT]
-
   > この製品のレガシ バージョンは、2021 年 3 月 9 日にサポートを終了します。 詳細については、[こちら](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)を参照してください。
 
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-- version: Original Release
-  startDate: 01/15/2020
-content: "\n\n## <a name=\"links\"></a>リンク \n* [Microsoft Edge でサポートされているオペレーティング システム](/deployedge/microsoft-edge-supported-operating-systems)\n* [ライフサイクルに関する FAQ - Internet Explorer および Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge ライフサイクル ポリシー](/deployedge/microsoft-edge-support-lifecycle)"
+  - version: Original Release
+    startDate: 01/15/2020
+content: |+
+
+
+  ## <a name="links"></a>リンク 
+  * [Microsoft Edge でサポートされているオペレーティング システム](/deployedge/microsoft-edge-supported-operating-systems)
+  * [ライフサイクルに関する FAQ - Internet Explorer および Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
+  * [Microsoft Edge ライフサイクル ポリシー](/deployedge/microsoft-edge-support-lifecycle)

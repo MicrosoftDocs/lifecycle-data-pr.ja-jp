@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 は、固定ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857530"
 name: Windows Phone 8.1
-summary: >
+summary: |
   Windows Phone 8.1 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-
   > [!IMPORTANT]
-
   > この製品のサポートは終了しました。
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>リンク \n* [Windows Phone 8.1 に関する FAQ](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> マイクロソフトは、セキュリティ更新プログラムを含むオペレーティング システムの更新プログラムを、ライフサイクルの開始日から少なくとも 36 か月間利用できるようにします。 これらの更新プログラムは増分更新で、それぞれが 1 つ前の更新プログラムに追加でビルドされます。 お客様は、引き続きサポートを受けるために、各更新プログラムをインストールする必要があります。 これらの増分更新の配布は、通信事業者または電話を購入した電話の製造元によって制御される場合があり、インストールには、電話に以前の更新プログラムが必要です。 使用可能な更新プログラムも、国、地域、ハードウェアの機能によって異なります。"
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>リンク 
+  * [Windows Phone 8.1 に関する FAQ](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > マイクロソフトは、セキュリティ更新プログラムを含むオペレーティング システムの更新プログラムを、ライフサイクルの開始日から少なくとも 36 か月間利用できるようにします。 これらの更新プログラムは増分更新で、それぞれが 1 つ前の更新プログラムに追加でビルドされます。 お客様は、引き続きサポートを受けるために、各更新プログラムをインストールする必要があります。 これらの増分更新の配布は、通信事業者または電話を購入した電話の製造元によって制御される場合があり、インストールには、電話に以前の更新プログラムが必要です。 使用可能な更新プログラムも、国、地域、ハードウェアの機能によって異なります。
