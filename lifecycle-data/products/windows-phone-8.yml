@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 は、固定ライフサイクル ポリシーに従います。
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940881"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> マイクロソフトは、セキュリティ更新プログラムを含むオペレーティング システムの更新プログラムを、ライフサイクルの開始日から少なくとも 36 か月間利用できるようにします。 これらの更新プログラムは増分更新で、それぞれが 1 つ前の更新プログラムに追加でビルドされます。 お客様は、引き続きサポートを受けるために、各更新プログラムをインストールする必要があります。 これらの増分更新の配布は、通信事業者または電話を購入した電話の製造元によって制御される場合があり、インストールには、電話に以前の更新プログラムが必要です。 使用可能な更新プログラムも、国、地域、ハードウェアの機能によって異なります。"
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > マイクロソフトは、セキュリティ更新プログラムを含むオペレーティング システムの更新プログラムを、ライフサイクルの開始日から少なくとも 36 か月間利用できるようにします。 これらの更新プログラムは増分更新で、それぞれが 1 つ前の更新プログラムに追加でビルドされます。 お客様は、引き続きサポートを受けるために、各更新プログラムをインストールする必要があります。 これらの増分更新の配布は、通信事業者または電話を購入した電話の製造元によって制御される場合があり、インストールには、電話に以前の更新プログラムが必要です。 使用可能な更新プログラムも、国、地域、ハードウェアの機能によって異なります。
