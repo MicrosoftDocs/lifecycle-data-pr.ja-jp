@@ -1,31 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile Enterprise, released in August 2016
-  description: Windows 10 Mobile Enterprise, released in August 2016 は、固定ライフサイクル ポリシーに従います。
+  title: 'Windows 10 Mobile Enterprise, released in August 2016'
+  description: 'Windows 10 Mobile Enterprise, released in August 2016 は、固定ライフサイクル ポリシーに従います。'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "857527"
-name: Windows 10 Mobile Enterprise, released in August 2016
-summary: >
+name: 'Windows 10 Mobile Enterprise, released in August 2016'
+summary: |
   Windows 10 Mobile Enterprise, released in August 2016 は、 [固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
-
   > [!IMPORTANT]
-
   > この製品のサポートは終了しました。
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 08/16/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 08/16/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>リンク \n* [デバイス OS のライフサイクルに関する FAQ](/lifecycle/faq/device-operating-systems)\n* [2019 年 12 月 10 日、Windows 10 Mobile のサポート終了](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 08/16/2016
+    endDate: 10/09/2018
+content: |+
+
+  ## <a name="links"></a>リンク 
+  * [デバイス OS のライフサイクルに関する FAQ](/lifecycle/faq/device-operating-systems)
+  * [2019 年 12 月 10 日、Windows 10 Mobile のサポート終了](/lifecycle/announcements/windows-10-mobile-end-of-support)

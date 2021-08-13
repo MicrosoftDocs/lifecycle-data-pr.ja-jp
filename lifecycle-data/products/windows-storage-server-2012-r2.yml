@@ -3,29 +3,35 @@ metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
-  keywords: Essentials,Standard,Workgroup
-  ms.openlocfilehash: 882550832ce3c5dc7b3a62ef17e1358df0445a9f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939007"
+  keywords: 'Essentials,Standard,Workgroup'
 name: Windows Storage Server 2012 R2
-summary: >+
+summary: |+
   Windows Storage Server 2012 R2 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
-
 
   これは次のエディションに適用されます。Essentials、Standard、Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/25/2013
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> この製品のメインストリームおよび拡張サポートは、標準のライフサイクル移行タイムラインをお客様に提供するように拡張されています。\n> [!NOTE]\n> Essentials エディションの開始日は 2014 年 9 月 25 日です。 \n\n## <a name=\"editions\"></a>エディション \n* Essentials\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>リンク 
+  * [移行ガイダンス](/windows-server/upgrade/upgrade-2012r2-to-2019)
+
+  > [!NOTE]
+  > この製品のメインストリームおよび拡張サポートは、標準のライフサイクル移行タイムラインをお客様に提供するように拡張されています。
+  > [!NOTE]
+  > Essentials エディションの開始日は 2014 年 9 月 25 日です。 
+
+  ## <a name="editions"></a>エディション 
+  * Essentials
+  * Standard
+  * Workgroup
