@@ -4,28 +4,30 @@ metadata:
   description: Infopath 2013 は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: 7cd0b91eef230b0f5820c953c57369a58940d719
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002024"
 name: Infopath 2013
-summary: >+
+summary: |+
   Infopath 2013 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
-
 
   これは次のエディションに適用されます。Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>リンク \n* [サポートの詳細](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Microsoft InfoPath 2013 のサポートは、SharePoint Server 2016 との互換性を確保するために、ここで示すように延長されています。\n\n## <a name=\"editions\"></a>エディション \n* Standard"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 07/14/2026
+content: |
+
+  ## <a name="links"></a>リンク 
+  * [サポートの詳細](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > Microsoft InfoPath 2013 のサポートは、SharePoint Server 2016 との互換性を確保するために、ここで示すように延長されています。
+
+  ## <a name="editions"></a>エディション 
+  * Standard
