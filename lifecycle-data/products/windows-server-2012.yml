@@ -2,11 +2,18 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 は、固定ライフサイクル ポリシーに従います。
-  ms.date: 07/12/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: 
+  ms.openlocfilehash: 4aaf6ab9c89c90bd7017bf7048a93890cd7f396e
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560137"
 name: Windows Server 2012
-summary: |+
+summary: >+
   Windows Server 2012 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
+
 
 
   これは次のエディションに適用されます。Datacenter、Essentials、External Connector、for Embedded Systems、Foundation、Standard
@@ -14,42 +21,23 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 10/14/2025
-    endDate: 10/13/2026
-  - version: Extended Security Update Year 2
-    startDate: 10/08/2024
-    endDate: 10/14/2025
-  - version: Extended Security Update Year 1
-    startDate: 10/10/2023
-    endDate: 10/08/2024
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 10/10/2023
-content: |+
-
-
-  ## <a name="links"></a>リンク 
-  * [移行ガイダンス](/windows-server/upgrade/upgrade-overview)
-  * [製品情報](/windows/release-information/status-windows-server-2012)
-  * [ライフサイクルに関する FAQ - 拡張セキュリティ更新プログラム](/lifecycle/faq/extended-security-updates)
-
-
-  > [!NOTE]
-  > この製品のメインストリームおよび拡張サポートは、標準のライフサイクル移行タイムラインをお客様に提供するように拡張されています。 2013 年 1 月 2 日にリリースされた Windows Server Essentials。
-
-
-  ## <a name="editions"></a>エディション 
-  * Datacenter
-  * Essentials
-  * External Connector
-  * for Embedded Systems
-  * Foundation
-  * Standard
+- version: Extended Security Update Year 3
+  startDate: 10/15/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/09/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/11/2023
+  endDate: 10/08/2024
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>リンク \n* [移行ガイダンス](/windows-server/upgrade/upgrade-overview)\n* [製品情報](/windows/release-information/status-windows-server-2012)\n* [ライフサイクルに関する FAQ - 拡張セキュリティ更新プログラム](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> この製品のメインストリームおよび拡張サポートは、標準のライフサイクル移行タイムラインをお客様に提供するように拡張されています。 2013 年 1 月 2 日にリリースされた Windows Server Essentials。\n\n\n## <a name=\"editions\"></a>エディション \n* Datacenter\n* Essentials\n* External Connector\n* for Embedded Systems\n* Foundation\n* Standard"
