@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge は、モダン ライフサイクル ポリシーに従います。
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560063"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Microsoft Edge は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 
 
+
   > [!IMPORTANT]
+
   > この製品のレガシ バージョンは、2021 年 3 月 9 日にサポートを終了します。 詳細については、[こちら](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)を参照してください。
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>リンク 
-  * [Microsoft Edge でサポートされているオペレーティング システム](/deployedge/microsoft-edge-supported-operating-systems)
-  * [ライフサイクルに関する FAQ - Internet Explorer および Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Microsoft Edge ライフサイクル ポリシー](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>リンク \n* [Microsoft Edge でサポートされているオペレーティング システム](/deployedge/microsoft-edge-supported-operating-systems)\n* [Edge への移行を加速するための新しいリソース](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [ライフサイクルに関する FAQ - Internet Explorer および Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge ライフサイクル ポリシー](/deployedge/microsoft-edge-support-lifecycle)"
