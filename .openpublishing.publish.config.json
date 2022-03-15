@@ -1,19 +1,19 @@
 {
   "docsets_to_publish": [
     {
-      "build_entry_point": "docs",
-      "build_output_subfolder": "lifecycle-data",
-      "build_source_folder": "lifecycle-data",
       "docset_name": "lifecycle-data",
+      "build_source_folder": "lifecycle-data",
+      "build_output_subfolder": "lifecycle-data",
       "locale": "ja-jp",
-      "moniker_ranges": [],
       "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": false,
-      "template_folder": "_themes",
       "type_mapping": {
         "Conceptual": "Content",
         "Lifecycle": "Content"
-      }
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [
@@ -50,7 +50,6 @@
   "branch_target_mapping": {
     "live": [
       "Publish",
-      "Pdf",
       "Intellisense"
     ]
   },
