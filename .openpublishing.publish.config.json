@@ -1,19 +1,19 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "lifecycle-data",
-      "build_source_folder": "lifecycle-data",
+      "build_entry_point": "docs",
       "build_output_subfolder": "lifecycle-data",
+      "build_source_folder": "lifecycle-data",
+      "docset_name": "lifecycle-data",
       "locale": "ja-jp",
-      "monikers": [],
       "moniker_ranges": [],
+      "monikers": [],
       "open_to_public_contributors": false,
+      "template_folder": "_themes",
       "type_mapping": {
         "Conceptual": "Content",
         "Lifecycle": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
+      }
     }
   ],
   "notification_subscribers": [
@@ -29,7 +29,7 @@
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": true,
+  "need_preview_pull_request": false,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -45,12 +45,6 @@
         "live": "live",
         "main": "main"
       }
-    },
-    {
-      "path_to_root": "_themes.pdf",
-      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
-      "branch": "main",
-      "branch_mapping": {}
     }
   ],
   "branch_target_mapping": {
@@ -60,12 +54,8 @@
       "Intellisense"
     ]
   },
-  "need_generate_pdf_url_template": true,
-  "targets": {
-    "pdf": {
-      "template_folder": "_themes.pdf"
-    }
-  },
+  "need_generate_pdf_url_template": false,
+  "targets": {},
   "docs_build_engine": {},
   "contribution_branch_mappings": {}
 }
