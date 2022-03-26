@@ -3,32 +3,26 @@ metadata:
   title: Microsoft Mediaroom
   description: Microsoft Mediaroom は、固定ライフサイクル ポリシーに従います。
   ms.date: 09/01/2020
-  keywords: 'Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1'
+  keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
+  ms.openlocfilehash: afcf982957d8e6ecda62488ad4f6a6716fd5cc3e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107494"
 name: Microsoft Mediaroom
-summary: |+
+summary: >+
   Microsoft Mediaroom は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
+
 
   これは次のエディションに適用されます。Application Services 1.0、Client 2.0、Client 2.1、Server 2.0、Server 2.1
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 08/03/2010
+  start: 2010-08-03T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 08/03/2010
-content: |
-
-
-  > [!NOTE]
-  > Ericsson は 2013 年に Microsoft Mediaroom 製品を買収しました。 詳細については、[プレス リリース](http://www.ericsson.com/news/1691160)を参照してください。 サポートが必要なお客様は、[こちら](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)に進んでください。
-  > [!NOTE]
-  > Microsoft Mediaroom Client 2.1 は、2011 年 12 月 27 日にリリースされました。 
-
-  ## <a name="editions"></a>エディション 
-  * Application Services 1.0
-  * Client 2.0
-  * Client 2.1
-  * Server 2.0
-  * Server 2.1
+- version: Original Release
+  startDate: 2010-08-03T00:00:00.000-08:00
+content: "\n\n> [!NOTE]\n> Ericsson は 2013 年に Microsoft Mediaroom 製品を買収しました。 詳細については、[プレス リリース](http://www.ericsson.com/news/1691160)を参照してください。 サポートが必要なお客様は、[こちら](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)に進んでください。\n> [!NOTE]\n> Microsoft Mediaroom Client 2.1 は、2011 年 12 月 27 日にリリースされました。 \n\n## <a name=\"editions\"></a>エディション \n* Application Services 1.0\n* Client 2.0\n* Client 2.1\n* Server 2.0\n* Server 2.1"
