@@ -1,13 +1,13 @@
 ---
 title: 2016 年にサポートが終了する製品
 description: 2016 年に廃止される、サポートが終了する、またはメインストリーム サポートから延長サポートに移行する製品を確認してください。
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028906"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117558"
 ---
 # <a name="products-ending-support-in-2016"></a>2016 年にサポートが終了する製品
 
@@ -20,13 +20,6 @@ ms.locfileid: "4028906"
 
 
 
-## <a name="release-end-of-servicing"></a>サービスの終了
-
-[モダン ポリシー](/lifecycle/policies/modern)によって管理される以下の製品リリースは、2016 年にサポートが終了します。
-
-| 製品 | サービスの終了 |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager、バージョン 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2016 年 12 月 8 日 |
 
 
 ## <a name="products-reaching-end-of-support"></a>サポートが終了する製品

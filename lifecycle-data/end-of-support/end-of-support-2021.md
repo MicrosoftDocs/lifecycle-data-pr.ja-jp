@@ -1,13 +1,13 @@
 ---
 title: 2021 年にサポートが終了する製品
 description: 2021 年に廃止される、サポートが終了する、またはメインストリーム サポートから延長サポートに移行する製品を確認してください。
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4029252"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117484"
 ---
 # <a name="products-ending-support-in-2021"></a>2021 年にサポートが終了する製品
 
@@ -24,7 +24,7 @@ ms.locfileid: "4029252"
 
 | 製品 | 退職 |
 | --- | --- |
-| [Azure Information Protection クライアント](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 2021 年 3 月 31 日 |
+| [Azure Information Protection クラシック クライアント](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 2021 年 3 月 31 日 |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | 2021 年 5 月 15 日 |
 | [Skype for Business Online](/lifecycle/products/skype-for-business-online?branch=live)<br> | 2021 年 7 月 31 日 |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | 2021 年 12 月 31 日 |
@@ -39,7 +39,7 @@ ms.locfileid: "4029252"
 | [Microsoft Endpoint Configuration Manager バージョン 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021 年 1 月 26 日 |
 | [Dynamics 365 Business Central オンプレミス (モダン ポリシー)、2019 リリース ウェーブ 2、バージョン 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021年 4 月 13 日 |
 | [Windows 10 Enterprise and Education Version 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise and Education Version 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro Version 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise Version 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise Version 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server バージョン 1909](/lifecycle/products/windows-server?branch=live)<br> | 2021 年 5 月 11 日 |
-| [Microsoft Endpoint Configuration Manager、バージョン 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021 年 5 月 29 日 |
+| [Microsoft Endpoint Configuration Manager、バージョン 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager、バージョン 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021 年 5 月 29 日 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2021 年 8 月 21 日 |
 | [Microsoft Endpoint Configuration Manager、バージョン 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021 年 10 月 1 日 |
 | [Dynamics 365 Business Central オンプレミス (モダン ポリシー)、2020 リリース ウェーブ 1、バージョン 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021 年 10 月 12 日 |

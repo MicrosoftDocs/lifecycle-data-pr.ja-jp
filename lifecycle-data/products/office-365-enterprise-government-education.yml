@@ -3,21 +3,23 @@ metadata:
   title: Office 365 (Enterprise、Government、Education)
   description: Office 365 (Enterprise、Government、Education) は、モダン ライフサイクル ポリシーに従います。
   ms.date: 07/28/2020
+  ms.openlocfilehash: cdc44a3bb6c607ce1583bc1a14afaead8c3ae395
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4152301"
 name: Office 365 (Enterprise、Government、Education)
-summary: |+
+summary: >+
   Office 365 (Enterprise、Government、Education) は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
 
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-content: |+
-
-  ## <a name="links"></a>リンク 
-  * [システム要件](https://products.office.com/office-system-requirements)
-  * [サービス情報](https://technet.microsoft.com/library/mt584223.aspx)
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>リンク \n* [システム要件](https://products.office.com/office-system-requirements)\n* [サービス情報](https://technet.microsoft.com/library/mt584223.aspx)"

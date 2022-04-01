@@ -2,30 +2,33 @@
 metadata:
   title: SQL Server 2019
   description: SQL Server 2019 は、固定ライフサイクル ポリシーに従います。
-  ms.date: 09/01/2020
-  keywords: on Linux (all editions),on Windows (all editions)
-  ms.openlocfilehash: 5963d96efa70fdfb3bb470a362fd6c2204e8d989da8d47eb2e813466bd4cafbb
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 02/16/2022
+  keywords: big data cluster,on Linux (all editions),on Windows (all editions)
+  ms.openlocfilehash: 33c1c3f06073be35c2cc5a4697a52e14c1e57d93
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2506917"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4136021"
 name: SQL Server 2019
 summary: >+
   SQL Server 2019 は、[固定](/lifecycle/policies/fixed)ライフサイクル ポリシーに従います。
 
 
+
   これは次のエディションに適用されます。on Linux (すべてのエディション)、on Windows (すべてのエディション)
+
+
 
 products:
 - sql-server
 policyType: fixed
 supportDates:
-  start: 11/04/2019
-  end: 01/07/2025
-  extendedEnd: 01/08/2030
+  start: 2019-11-04T00:00:00.000-08:00
+  end: 2025-01-14T22:59:59.999-08:00
+  extendedEnd: 2030-01-08T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/04/2019
-  endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>リンク \n* [サービス情報](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>エディション \n* on Linux (すべてのエディション)\n* on Windows (すべてのエディション)"
+  startDate: 2019-11-04T00:00:00.000-08:00
+  endDate: 2030-01-08T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>リンク \n* [サービス情報](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n> [!NOTE]\n> SQL Server ビッグ データ クラスターは、2025 年 2 月 28 日に廃止されます。 詳細については、[ここ](https://aka.ms/sqlserver_bigdataclusters)を参照してください。 \n\n\n## <a name=\"editions\"></a>エディション \n* on Linux (すべてのエディション)\n* on Windows (すべてのエディション)"
