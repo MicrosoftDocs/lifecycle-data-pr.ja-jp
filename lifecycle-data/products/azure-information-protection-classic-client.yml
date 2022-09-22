@@ -2,14 +2,14 @@
 metadata:
   title: Azure Information Protection クラシック クライアント
   description: Azure Information Protection クラシック クライアントは、モダン ライフサイクル ポリシーに従います。
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156900"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518643"
 name: Azure Information Protection クラシック クライアント
 summary: >+
   Azure Information Protection クラシック クライアントは、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>リンク \n* [サービス情報](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> 統一かつ合理化されたカスタマー エクスペリエンスを提供するために、Azure Information Protection クライアント (クラシック) と Azure portal のラベル管理は、2021 年 3 月 31 日をもって廃止されます。 この期間により、現在のすべての Azure Information Protection のお客様は、Microsoft Information Protection 統合ラベル付けプラットフォームを使用して、統合ラベル付けソリューションに移行できます。"
+content: "\n\n## <a name=\"links\"></a>リンク \n* [サービス情報](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [移行ガイダンス](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> 統一かつ合理化されたカスタマー エクスペリエンスを提供するために、Azure Information Protection クライアント (クラシック) と Azure portal のラベル管理は、2021 年 3 月 31 日をもって廃止されます。 この期間により、現在 Azure Information Protection をご利用のすべてのお客様は、Microsoft Purview Information Protection の統合ラベル付けプラットフォームに移行できます。"
