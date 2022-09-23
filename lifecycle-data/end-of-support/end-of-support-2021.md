@@ -1,13 +1,13 @@
 ---
 title: 2021 年にサポートが終了する製品
 description: 2021 年に廃止される、サポートが終了する、またはメインストリーム サポートから延長サポートに移行する製品を確認してください。
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117484"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520838"
 ---
 # <a name="products-ending-support-in-2021"></a>2021 年にサポートが終了する製品
 
@@ -37,12 +37,12 @@ ms.locfileid: "4117484"
 | 製品 | サービスの終了 |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager バージョン 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021 年 1 月 26 日 |
+| [Azure IoT Edge、バージョン 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | 2021 年 2 月 1 日 |
 | [Dynamics 365 Business Central オンプレミス (モダン ポリシー)、2019 リリース ウェーブ 2、バージョン 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021年 4 月 13 日 |
 | [Windows 10 Enterprise and Education Version 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise and Education Version 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro Version 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise Version 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise Version 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server バージョン 1909](/lifecycle/products/windows-server?branch=live)<br> | 2021 年 5 月 11 日 |
-| [Microsoft Endpoint Configuration Manager、バージョン 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager、バージョン 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021 年 5 月 29 日 |
+| [Microsoft Endpoint Configuration Manager、バージョン 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021 年 5 月 29 日 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2021 年 8 月 21 日 |
 | [Microsoft Endpoint Configuration Manager、バージョン 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021 年 10 月 1 日 |
-| [Dynamics 365 Business Central オンプレミス (モダン ポリシー)、2020 リリース ウェーブ 1、バージョン 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021 年 10 月 12 日 |
 | [Windows 10 Enterprise and Education Version 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro Version 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise Version 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server バージョン 2004](/lifecycle/products/windows-server?branch=live)<br> | 2021 年 12 月 14 日 |
 
 
