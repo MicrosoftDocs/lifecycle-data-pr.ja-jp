@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Enterprise and Education
+  description: Windows 11 Enterprise and Education は、モダン ライフサイクル ポリシーに従います。
+  ms.date: 09/15/2022
+  keywords: 
+  ms.openlocfilehash: ae1e725eb4b78d2fef501206b8a2b76d091a3a68
+  ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
+  ms.translationtype: HT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 09/20/2022
+  ms.locfileid: "4526326"
+name: Windows 11 Enterprise and Education
+summary: >+
+  Windows 11 Enterprise and Education は、[モダン](/lifecycle/policies/modern) ライフサイクル ポリシーに従います。
+
+
+
+  これは次のエディションに適用されます。Education、Enterprise、Enterprise マルチセッション
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 2021-10-04T00:00:00.000-08:00
+releases:
+- version: Version 22H2
+  startDate: 2022-09-20T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+- version: Version 21H2
+  startDate: 2021-10-04T00:00:00.000-08:00
+  endDate: 2024-10-08T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>リンク \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [ライフサイクルに関する FAQ - Windows](/lifecycle/faq/windows)\n* [その他の Windows リソース](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n* [Windows 11 Home and Pro](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> 今後の Windows 11 の機能更新プログラムは、延期されなければ、記載されているメインストリーム サポート期間の終了前にインストールされる場合があります。\n\n\n## <a name=\"editions\"></a>エディション \n* Education\n* Enterprise\n* Enterprise マルチセッション"
